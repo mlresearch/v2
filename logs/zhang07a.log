@@ -1,0 +1,14 @@
+--17:27:43--  http://www.stat.umn.edu/~aistat/proceedings/data/papers/084.pdf
+Resolving www.stat.umn.edu... 134.84.86.2
+Connecting to www.stat.umn.edu|134.84.86.2|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 179559 (175K) [application/pdf]
+Saving to: `zhang07a/zhang07a.pdf'
+
+     0K .......... .......... .......... .......... .......... 28% 93.4K 1s
+    50K .......... .......... .......... .......... .......... 57% 99.3K 1s
+   100K .......... .......... .......... .......... .......... 85%  142K 0s
+   150K .......... .......... .....                           100%  148K=1.6s
+
+17:27:45 (112 KB/s) - `zhang07a/zhang07a.pdf' saved [179559/179559]
+

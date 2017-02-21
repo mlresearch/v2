@@ -1,0 +1,15 @@
+--17:25:29--  http://www.stat.umn.edu/~aistat/proceedings/data/papers/043.pdf
+Resolving www.stat.umn.edu... 134.84.86.2
+Connecting to www.stat.umn.edu|134.84.86.2|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 217026 (212K) [application/pdf]
+Saving to: `niculescu-mizil07a/niculescu-mizil07a.pdf'
+
+     0K .......... .......... .......... .......... .......... 23% 92.5K 2s
+    50K .......... .......... .......... .......... .......... 47%  144K 1s
+   100K .......... .......... .......... .......... .......... 70%  145K 1s
+   150K .......... .......... .......... .......... .......... 94%  149K 0s
+   200K .......... .                                          100%  579K=1.6s
+
+17:25:31 (133 KB/s) - `niculescu-mizil07a/niculescu-mizil07a.pdf' saved [217026/217026]
+

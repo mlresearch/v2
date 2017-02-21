@@ -1,0 +1,13 @@
+--17:24:22--  http://www.stat.umn.edu/~aistat/proceedings/data/papers/016.pdf
+Resolving www.stat.umn.edu... 134.84.86.2
+Connecting to www.stat.umn.edu|134.84.86.2|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 123910 (121K) [application/pdf]
+Saving to: `gehler07a/gehler07a.pdf'
+
+     0K .......... .......... .......... .......... .......... 41% 93.8K 1s
+    50K .......... .......... .......... .......... .......... 82%  150K 0s
+   100K .......... .......... .                               100%  922K=0.9s
+
+17:24:23 (136 KB/s) - `gehler07a/gehler07a.pdf' saved [123910/123910]
+

@@ -1,0 +1,6 @@
+<h2>An Improved 1-norm SVM for Simultaneous Classification and Variable Selection</h2>
+<p><i><b>Hui Zou</b></i>;
+JMLR W&P 2:675-681, 2007.
+<h3>Abstract</h3>
+
+We propose a novel extension of the 1-norm support vector machine (SVM) for simultaneous feature selection and classification. The new algorithm penalizes the empirical hinge loss by the adaptively weighted 1-norm penalty in which the weights are computed by the 2-norm SVM. Hence the new algorithm is called the hybrid SVM. Simulation and real data examples show that the hybrid SVM not only often improves upon the 1-norm SVM in terms of classification accuracy but also enjoys better feature selection performance.

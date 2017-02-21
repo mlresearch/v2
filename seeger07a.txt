@@ -1,0 +1,7 @@
+<h2>Bayesian Inference and Optimal Design in the Sparse Linear Model</h2>
+<p><i><b>Matthias Seeger, Florian Steinke, Koji Tsuda</b></i>;
+JMLR W&P 2:444-451, 2007.
+<h3>Abstract</h3>
+
+The sparse linear model has seen many successful applications in Statistics, Machine Learning, and Computational Biology, such as identification of gene regulatory networks from micro-array expression data. Prior work has either approximated Bayesian inference by expensive Markov chain Monte Carlo, or replaced it by point estimation. We show how to obtain a good approximation to Bayesian analysis efficiently, using the Expectation Propagation method. We also address the problems of optimal design and hyperparameter estimation. We demonstrate our framework on a gene network identification task.
+

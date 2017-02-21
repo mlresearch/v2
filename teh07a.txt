@@ -1,0 +1,7 @@
+<h2>Stick-breaking Construction for the Indian Buffet Process</h2>
+<p><i><b>Yee Whye Teh, Dilan Gr&uuml;r, Zoubin Ghahramani</b></i>;
+JMLR W&P 2:556-563, 2007.
+<h3>Abstract</h3>
+
+The Indian buffet process (IBP) is a Bayesian nonparametric distribution whereby objects are modelled using an unbounded number of latent features. In this paper we derive a stick-breaking representation for the IBP. Based on this new representation, we develop slice samplers for the IBP that are efficient, easy to implement and are more generally applicable than the currently available Gibbs sampler. This representation, along with the work of Thibaux and Jordan [17], also illuminates interesting theoretical connections between the IBP, Chinese restaurant processes, Beta processes and Dirichlet processes.
+

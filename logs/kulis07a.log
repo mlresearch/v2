@@ -1,0 +1,14 @@
+--17:24:48--  http://www.stat.umn.edu/~aistat/proceedings/data/papers/030.pdf
+Resolving www.stat.umn.edu... 134.84.86.2
+Connecting to www.stat.umn.edu|134.84.86.2|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 181562 (177K) [application/pdf]
+Saving to: `kulis07a/kulis07a.pdf'
+
+     0K .......... .......... .......... .......... .......... 28% 93.8K 1s
+    50K .......... .......... .......... .......... .......... 56%  151K 1s
+   100K .......... .......... .......... .......... .......... 84%  282K 0s
+   150K .......... .......... .......                         100%  864K=1.1s
+
+17:24:49 (165 KB/s) - `kulis07a/kulis07a.pdf' saved [181562/181562]
+

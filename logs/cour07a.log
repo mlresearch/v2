@@ -1,0 +1,15 @@
+--17:24:11--  http://www.stat.umn.edu/~aistat/proceedings/data/papers/010.pdf
+Resolving www.stat.umn.edu... 134.84.86.2
+Connecting to www.stat.umn.edu|134.84.86.2|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 231037 (226K) [application/pdf]
+Saving to: `cour07a/cour07a.pdf'
+
+     0K .......... .......... .......... .......... .......... 22% 93.4K 2s
+    50K .......... .......... .......... .......... .......... 44%  151K 1s
+   100K .......... .......... .......... .......... .......... 66%  280K 1s
+   150K .......... .......... .......... .......... .......... 88%  838K 0s
+   200K .......... .......... .....                           100%  201K=1.2s
+
+17:24:13 (183 KB/s) - `cour07a/cour07a.pdf' saved [231037/231037]
+

@@ -1,0 +1,7 @@
+<h2>Metric Learning for Kernel Regression</h2>
+<p><i><b>Kilian Q. Weinberger, Gerald Tesauro</b></i>;
+JMLR W&P 2:612-619, 2007.
+<h3>Abstract</h3>
+
+Kernel regression is a well-established method for nonlinear regression in which the target value for a test point is estimated using a weighted average of the surrounding training samples. The weights are typically obtained by applying a distance-based kernel function to each of the samples, which presumes the existence of a well-defined distance metric. In this paper, we construct a novel algorithm for supervised metric learning, which learns a distance function by directly minimizing the leave-one-out regression error. We show that our algorithm makes kernel regression comparable with the state of the art on several benchmark datasets, and we provide efficient implementation details enabling application to datasets with ~O(10k) instances. Further, we show that our algorithm can be viewed as a supervised variation of PCA and can be used for dimensionality reduction and high dimensional data visualization.
+
