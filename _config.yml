@@ -1,13 +1,45 @@
-title: PMLR Volume 2
-description: > # this means to ignore newlines until "baseurl:"
-    Proceedings of AISTATS 2007
-baseurl: "/v1"
+# Site settings
+# Auto generated from v2.bib
+---
+booktitle: Proceedings of the Eleventh International Conference on Artificial Intelligence
+  and Statistics
+series: Journal of Machine Learning Research - Proceedings Track
 volume: 2
-date: 2007-10-27
-url: "http://proceedings.mlr.press"
+year: '2007'
+start: 2007-03-21
+end: 2007-03-24
+published: 2007-03-11
+address: San Juan, Puerto Rico
+conference_url: http://users.stat.umn.edu/~aistat/
+shortname: AISTATS
+comments: true
+bibsource: http://jmlr.csail.mit.edu/proceedings/
+sections:
+- name: preface
+  title: Preface
+- name: default
+  title: Accepted Papers
+layout: proceedings
+key: MeilaMSX2007
+month: 0
+abstract: 
+origpdf: 
+pdf: "./MeilaMSX2007/MeilaMSX2007.pdf"
+editors:
+- given: Marina
+  family: Meila
+- given: Xiaotong
+  family: Shen
+title: Proceedings of the Eleventh International Conference on Artificial Intelligence
+  and Statistics
+conference: Proceedings of the Eleventh International Conference on Artificial Intelligence
+  and Statistics
+email: ''
+description: Proceedings of the Eleventh International Conference on Artificial Intelligence
+  and Statistics, San Juan, Puerto Rico
+url: http://proceedings.mlr.press
+baseurl: "/v2"
 twitter_username: mlresearch
-github_username:  mlresearch
-
-# Build settings
+github_username: mlresearch
 markdown: kramdown
-theme: minima
+permalink: "/:title.html"
