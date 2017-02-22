@@ -16,13 +16,14 @@ layout: default
   </strong></p>
 
   <div id="sectionnav">
+    {% if site.sections %}
     <p>Contents:</p>
     <ul>
       {% for section in site.sections %}
       <li><a href="#{{ section.name }}">{{ section.title }}</a></li>
       {% endfor %}
     </ul>
-
+    {% endif %}
     <label for="search-authors">Filter Authors:</label>
     <input type="search" name="filter-authors" id="search-authors" value />
     <label for="search-titles">Filter Titles:</label>
