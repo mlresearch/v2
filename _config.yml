@@ -12,7 +12,7 @@ published: 2007-03-11
 address: San Juan, Puerto Rico
 conference_url: http://users.stat.umn.edu/~aistat/
 shortname: AISTATS
-comments: true
+comments: 'no'
 bibsource: http://jmlr.csail.mit.edu/proceedings/
 sections:
 - name: preface
