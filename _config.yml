@@ -20,17 +20,16 @@ sections:
 - name: default
   title: Accepted Papers
 layout: proceedings
-key: MeilaMSX2007
+id: MeilaMSX2007
 month: 0
 abstract: 
 origpdf: 
 pdf: "./MeilaMSX2007/MeilaMSX2007.pdf"
-editors:
+editor:
 - given: Marina
   family: Meila
 - given: Xiaotong
   family: Shen
-date: 2007-03-11
 title: Proceedings of the Eleventh International Conference on Artificial Intelligence
   and Statistics
 conference: Proceedings of the Eleventh International Conference on Artificial Intelligence
