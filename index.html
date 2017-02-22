@@ -9,8 +9,8 @@ layout: default
 
   
   <p><strong>Editors:
-      {% assign lastone = site.editors | last %}
-      {% for person in site.editors %}
+      {% assign lastone = site.editor | last %}
+      {% for person in site.editor %}
       {% include listperson.html %}
       {% endfor %}
   </strong></p>
