@@ -2,15 +2,16 @@
 layout: default
 ---
 
-<div class="home">
+<div id="content" class="home">
 
   <h1>Proceedings of Machine Learning Research</h1>
   <h2>Volume {{ site.volume }}: {{ site.conference }} {{ site.start | date: "%B %-d" }} to {{ site.end | date: "%B %-d, %Y" }}, {{ site.address }}</h2>
 
   
   <p><strong>Editors:
-      {% for editor in site.editors %}
-      {{ editor.firstname }} {{ editor.lastname }}
+      {% assign lastone = site.editors | last %}
+      {% for person in site.editors %}
+      {% include listperson.html %}
       {% endfor %}
   </strong></p>
 
@@ -30,18 +31,20 @@ layout: default
   {% if site.sections %}
   {% for section in site.sections %}
   <h3 id="{{ section.name }}">{{ section.title }}</h3>
-    {% for post in site.posts | sort_by: "firstpage" %}
+  {% assign sorted = (site.posts | sort: 'firstpage') %}
+  {% for post in sorted %}
     {% if section.name == post.section %}
-    {% include paper_list.html %}
+    {% include listpaper.html %}
     {% endif %}
     {% endfor %}
   </dl>
   {% endfor %}
   {% endif %}
   <dl>
-  {% for post in site.posts | sort_by: "firstpage" %}
+  {% assign sorted = (site.posts | sort: 'firstpage') %}
+  {% for post in sorted %}
   {% unless post.section %} 
-  {% include paper_list.html %}
+  {% include listpaper.html %}
   {% endunless %}
   {% endfor %}
 
