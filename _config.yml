@@ -41,7 +41,7 @@ markdown: kramdown
 permalink: "/:title.html"
 github:
   edit: true
-  repository: mlresearch
+  repository: v2
 conference:
   name: Artificial Intelligence and Statistics
   url: http://users.stat.umn.edu/~aistat/
