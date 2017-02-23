@@ -7,7 +7,7 @@
     {% endfor %};
   </div>
   <div id="info" class="authors">
-    {{ site.conference.name }}, PMLR {{ site.volume }}:{{ page.firstpage }}-{{ page.lastpage }}, {{ site.published | date: "%Y" }}.
+    {{ page.container-title }}, PMLR {{ page.volume }}:{{ page.page }}, {{ page.issued.date-parts.first }}.
   </div> <!-- info -->
   
   <h2>Abstract</h2>
