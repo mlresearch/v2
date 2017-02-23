@@ -1,4 +1,3 @@
-# Format based on citeproc: http://blog.martinfenner.org/2013/07/30/citeproc-yaml-for-bibliographies/
 ---
 title: Metric Learning for Kernel Regression
 abstract: Kernel regression is a well-established method for nonlinear regression
@@ -37,4 +36,5 @@ issued:
   - 2007
   - 3
   - 11
+# Format based on citeproc: http://blog.martinfenner.org/2013/07/30/citeproc-yaml-for-bibliographies/
 ---

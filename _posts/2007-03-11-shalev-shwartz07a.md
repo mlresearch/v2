@@ -1,4 +1,3 @@
-# Format based on citeproc: http://blog.martinfenner.org/2013/07/30/citeproc-yaml-for-bibliographies/
 ---
 title: A Unified Algorithmic Approach for Efficient Online Label Ranking
 abstract: 'Label ranking is the task of ordering labels with respect to their relevance
@@ -41,4 +40,5 @@ issued:
   - 2007
   - 3
   - 11
+# Format based on citeproc: http://blog.martinfenner.org/2013/07/30/citeproc-yaml-for-bibliographies/
 ---

@@ -1,4 +1,3 @@
-# Format based on citeproc: http://blog.martinfenner.org/2013/07/30/citeproc-yaml-for-bibliographies/
 ---
 title: Ellipsoidal Machines
 abstract: A novel technique is proposed for improving the standard Vapnik-Chervonenkis
@@ -39,4 +38,5 @@ issued:
   - 2007
   - 3
   - 11
+# Format based on citeproc: http://blog.martinfenner.org/2013/07/30/citeproc-yaml-for-bibliographies/
 ---

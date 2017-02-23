@@ -1,4 +1,3 @@
-# Format based on citeproc: http://blog.martinfenner.org/2013/07/30/citeproc-yaml-for-bibliographies/
 ---
 title: Inductive Transfer for Bayesian Network Structure Learning
 abstract: We consider the problem of learning Bayes Net structures for related tasks.
@@ -34,4 +33,5 @@ issued:
   - 2007
   - 3
   - 11
+# Format based on citeproc: http://blog.martinfenner.org/2013/07/30/citeproc-yaml-for-bibliographies/
 ---

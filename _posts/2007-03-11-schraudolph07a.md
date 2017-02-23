@@ -1,4 +1,3 @@
-# Format based on citeproc: http://blog.martinfenner.org/2013/07/30/citeproc-yaml-for-bibliographies/
 ---
 title: A Stochastic Quasi-Newton Method for Online Convex Optimization
 abstract: We develop stochastic variants of the well-known BFGS quasi-Newton optimization
@@ -36,4 +35,5 @@ issued:
   - 2007
   - 3
   - 11
+# Format based on citeproc: http://blog.martinfenner.org/2013/07/30/citeproc-yaml-for-bibliographies/
 ---

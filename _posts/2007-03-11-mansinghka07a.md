@@ -1,4 +1,3 @@
-# Format based on citeproc: http://blog.martinfenner.org/2013/07/30/citeproc-yaml-for-bibliographies/
 ---
 title: 'AClass: A simple, online, parallelizable algorithm for probabilistic classification'
 abstract: We present AClass, a simple, online, parallelizable algorithm for supervised
@@ -38,4 +37,5 @@ issued:
   - 2007
   - 3
   - 11
+# Format based on citeproc: http://blog.martinfenner.org/2013/07/30/citeproc-yaml-for-bibliographies/
 ---

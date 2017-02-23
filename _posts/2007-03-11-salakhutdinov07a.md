@@ -1,4 +1,3 @@
-# Format based on citeproc: http://blog.martinfenner.org/2013/07/30/citeproc-yaml-for-bibliographies/
 ---
 title: Learning a Nonlinear Embedding by Preserving Class Neighbourhood Structure
 abstract: We show how to pretrain and fine-tune a multilayer neural network to learn
@@ -35,4 +34,5 @@ issued:
   - 2007
   - 3
   - 11
+# Format based on citeproc: http://blog.martinfenner.org/2013/07/30/citeproc-yaml-for-bibliographies/
 ---
