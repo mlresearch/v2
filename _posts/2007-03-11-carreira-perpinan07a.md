@@ -8,20 +8,20 @@ abstract: We introduce the Laplacian Eigenmaps Latent Variable Model (LELVM), a 
   out-of-sample mapping for Laplacian eigenmaps using a semi-supervised learning argument.
   LELVM is simple, nonparametric and computationally not very costly, and is shown
   to perform well with motion-capture data.
-pdf: http://proceedings.pmlr.press/v/carreira-perpinan07a/carreira-perpinan07a.pdf
+pdf: http://jmlr.org/proceedings/papers/v2/carreira-perpinan07a/carreira-perpinan07a.pdf
 layout: inproceedings
 id: carreira-perpinan07a
 month: 0
 firstpage: 59
 lastpage: 66
 page: 59-66
-origpdf: http://jmlr.org/proceedings/papers/v2/carreira-perpinan07a/carreira-perpinan07a.pdf
 sections: 
 author:
 - given: Miguel A.
   family: Carreira-PerpiÃ±an
 - given: Zhengdong
   family: Lu
+reponame: v2
 date: 2007-03-11
 address: San Juan, Puerto Rico
 publisher: PMLR

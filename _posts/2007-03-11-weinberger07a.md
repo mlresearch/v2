@@ -11,20 +11,20 @@ abstract: Kernel regression is a well-established method for nonlinear regressio
   efficient implementation details enabling application to datasets with  O(10k) instances.
   Further, we show that our algorithm can be viewed as a supervised variation of PCA
   and can be used for dimensionality reduction and high dimensional data visualization.
-pdf: http://proceedings.pmlr.press/v/weinberger07a/weinberger07a.pdf
+pdf: http://jmlr.org/proceedings/papers/v2/weinberger07a/weinberger07a.pdf
 layout: inproceedings
 id: weinberger07a
 month: 0
 firstpage: 612
 lastpage: 619
 page: 612-619
-origpdf: http://jmlr.org/proceedings/papers/v2/weinberger07a/weinberger07a.pdf
 sections: 
 author:
 - given: Kilian Q.
   family: Weinberger
 - given: Gerald
   family: Tesauro
+reponame: v2
 date: 2007-03-11
 address: San Juan, Puerto Rico
 publisher: PMLR
