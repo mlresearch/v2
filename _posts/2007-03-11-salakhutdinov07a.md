@@ -9,7 +9,7 @@ abstract: We show how to pretrain and fine-tune a multilayer neural network to l
   of the dimensions of the low-dimensional feature space are not used for nearest
   neighbor classification, our method uses these dimensions to explicitly represent
   transformations of the digits that do not affect their identity.
-pdf: http://proceedings.pmlr.press/salakhutdinov07a/salakhutdinov07a.pdf
+pdf: http://proceedings.pmlr.press/v/salakhutdinov07a/salakhutdinov07a.pdf
 layout: inproceedings
 id: salakhutdinov07a
 month: 0

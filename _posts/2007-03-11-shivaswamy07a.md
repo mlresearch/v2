@@ -13,7 +13,7 @@ abstract: A novel technique is proposed for improving the standard Vapnik-Chervo
   the data which a standard SVM does not provide. We demonstrate that the technique
   can be kernelized via extensions to Hilbert spaces. Promising experimental results
   are shown on several standardized datasets.
-pdf: http://proceedings.pmlr.press/shivaswamy07a/shivaswamy07a.pdf
+pdf: http://proceedings.pmlr.press/v/shivaswamy07a/shivaswamy07a.pdf
 layout: inproceedings
 id: shivaswamy07a
 month: 0

@@ -10,7 +10,7 @@ abstract: A novel training algorithm for sparse kernel density estimates by regr
   performance of our proposed method compared to stateof-the-art density estimation
   methods such as Parzen windows, Gaussian Mixture Models, and ε-Support Vector Density
   models [1].
-pdf: http://proceedings.pmlr.press/schaffoner07a/schaffoner07a.pdf
+pdf: http://proceedings.pmlr.press/v/schaffoner07a/schaffoner07a.pdf
 layout: inproceedings
 id: schaffoner07a
 month: 0

@@ -15,7 +15,7 @@ abstract: 'Label ranking is the task of ordering labels with respect to their re
   updates either have a closed form or can be calculated very efficiently by tailoring
   an interior point procedure to the label ranking task. We demonstrate the potential
   of our approach in a few experiments with email categorization tasks.'
-pdf: http://proceedings.pmlr.press/shalev-shwartz07a/shalev-shwartz07a.pdf
+pdf: http://proceedings.pmlr.press/v/shalev-shwartz07a/shalev-shwartz07a.pdf
 layout: inproceedings
 id: shalev-shwartz07a
 month: 0
