@@ -1,3 +1,4 @@
+# Format based on citeproc: http://blog.martinfenner.org/2013/07/30/citeproc-yaml-for-bibliographies/
 ---
 title: A Unified Algorithmic Approach for Efficient Online Label Ranking
 abstract: 'Label ranking is the task of ordering labels with respect to their relevance
@@ -31,4 +32,13 @@ author:
   family: Singer
 date: 2007-03-11
 publisher: PMLR
+container-title: Proceedings of the Eleventh International Conference on Artificial
+  Intelligence and Statistics
+volume: '2'
+genre: inproceedings
+issued:
+  date-parts:
+  - 2007
+  - 3
+  - 11
 ---

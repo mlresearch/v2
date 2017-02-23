@@ -1,3 +1,4 @@
+# Format based on citeproc: http://blog.martinfenner.org/2013/07/30/citeproc-yaml-for-bibliographies/
 ---
 title: Generalized Darting Monte Carlo
 abstract: One of the main shortcomings of Markov chain Monte Carlo samplers is their
@@ -26,4 +27,13 @@ author:
   family: Welling
 date: 2007-03-11
 publisher: PMLR
+container-title: Proceedings of the Eleventh International Conference on Artificial
+  Intelligence and Statistics
+volume: '2'
+genre: inproceedings
+issued:
+  date-parts:
+  - 2007
+  - 3
+  - 11
 ---

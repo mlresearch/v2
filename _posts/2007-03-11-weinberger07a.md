@@ -1,3 +1,4 @@
+# Format based on citeproc: http://blog.martinfenner.org/2013/07/30/citeproc-yaml-for-bibliographies/
 ---
 title: Metric Learning for Kernel Regression
 abstract: Kernel regression is a well-established method for nonlinear regression
@@ -27,4 +28,13 @@ author:
   family: Tesauro
 date: 2007-03-11
 publisher: PMLR
+container-title: Proceedings of the Eleventh International Conference on Artificial
+  Intelligence and Statistics
+volume: '2'
+genre: inproceedings
+issued:
+  date-parts:
+  - 2007
+  - 3
+  - 11
 ---

@@ -1,3 +1,4 @@
+# Format based on citeproc: http://blog.martinfenner.org/2013/07/30/citeproc-yaml-for-bibliographies/
 ---
 title: Ellipsoidal Machines
 abstract: A novel technique is proposed for improving the standard Vapnik-Chervonenkis
@@ -29,4 +30,13 @@ author:
   family: Jebara
 date: 2007-03-11
 publisher: PMLR
+container-title: Proceedings of the Eleventh International Conference on Artificial
+  Intelligence and Statistics
+volume: '2'
+genre: inproceedings
+issued:
+  date-parts:
+  - 2007
+  - 3
+  - 11
 ---

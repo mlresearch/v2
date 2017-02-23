@@ -1,3 +1,4 @@
+# Format based on citeproc: http://blog.martinfenner.org/2013/07/30/citeproc-yaml-for-bibliographies/
 ---
 title: Memory-Effcient Orthogonal Least Squares Kernel Density Estimation using Enhanced
   Empirical Cumulative Distribution Functions
@@ -32,4 +33,13 @@ author:
   family: Wendemuth
 date: 2007-03-11
 publisher: PMLR
+container-title: Proceedings of the Eleventh International Conference on Artificial
+  Intelligence and Statistics
+volume: '2'
+genre: inproceedings
+issued:
+  date-parts:
+  - 2007
+  - 3
+  - 11
 ---
