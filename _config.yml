@@ -9,8 +9,6 @@ year: '2007'
 start: 2007-03-21
 end: 2007-03-24
 published: 2007-03-11
-address: San Juan, Puerto Rico
-conference_url: http://users.stat.umn.edu/~aistat/
 shortname: AISTATS
 comments: 'no'
 bibsource: http://jmlr.csail.mit.edu/proceedings/
@@ -32,8 +30,6 @@ editor:
   family: Shen
 title: Proceedings of the Eleventh International Conference on Artificial Intelligence
   and Statistics
-conference: Proceedings of the Eleventh International Conference on Artificial Intelligence
-  and Statistics
 email: ''
 description: Proceedings of the Eleventh International Conference on Artificial Intelligence
   and Statistics, San Juan, Puerto Rico
@@ -43,8 +39,13 @@ twitter_username: mlresearch
 github_username: mlresearch
 markdown: kramdown
 permalink: "/:title.html"
-gitub:
+github:
   edit: true
+  repository: mlresearch
+conference:
+  name: Artificial Intelligence and Statistics
+  url: http://users.stat.umn.edu/~aistat/
+  location: San Juan, Puerto Rico
 analytics:
   google:
     tracking_id: UA-92432422-1
