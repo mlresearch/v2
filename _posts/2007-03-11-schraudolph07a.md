@@ -8,7 +8,7 @@ abstract: We develop stochastic variants of the well-known BFGS quasi-Newton opt
   stochastic gradient methods for parameter estimation in conditional random fields.
   We are working on analyzing the convergence of online (L)BFGS, and extending it
   to nonconvex optimization problems.
-pdf: "./schraudolph07a/schraudolph07a.pdf"
+pdf: http://proceedings.pmlr.press/schraudolph07a/schraudolph07a.pdf
 layout: inproceedings
 id: schraudolph07a
 month: 0
@@ -24,6 +24,6 @@ author:
   family: Yu
 - given: Simon
   family: Günter
-date: '2007-03-11 00:07:16'
+date: '2007-03-11'
 publisher: PMLR
 ---

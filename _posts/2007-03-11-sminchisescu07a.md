@@ -10,7 +10,7 @@ abstract: One of the main shortcomings of Markov chain Monte Carlo samplers is t
   MCMC sampler can be viewed as a generalization of the darting method [1]. We illustrate
   the method on a `real world' vision application of inferring 3-D human body pose
   from single 2-D images.
-pdf: "./sminchisescu07a/sminchisescu07a.pdf"
+pdf: http://proceedings.pmlr.press/sminchisescu07a/sminchisescu07a.pdf
 layout: inproceedings
 id: sminchisescu07a
 month: 0
@@ -24,6 +24,6 @@ author:
   family: Sminchisescu
 - given: Max
   family: Welling
-date: '2007-03-11 00:08:36'
+date: '2007-03-11'
 publisher: PMLR
 ---

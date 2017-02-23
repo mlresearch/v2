@@ -8,7 +8,7 @@ abstract: We present AClass, a simple, online, parallelizable algorithm for supe
   learning from missing data and yields sensibly regularized nonlinear decision boundaries
   while remaining computationally efficient. We compare AClass to several standard
   classification algorithms and show competitive performance.
-pdf: "./mansinghka07a/mansinghka07a.pdf"
+pdf: http://proceedings.pmlr.press/mansinghka07a/mansinghka07a.pdf
 layout: inproceedings
 id: mansinghka07a
 month: 0
@@ -26,6 +26,6 @@ author:
   family: Rifkin
 - given: Josh
   family: Tenenbaum
-date: '2007-03-11 00:05:15'
+date: '2007-03-11'
 publisher: PMLR
 ---

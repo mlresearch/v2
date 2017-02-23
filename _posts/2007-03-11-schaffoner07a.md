@@ -10,7 +10,7 @@ abstract: A novel training algorithm for sparse kernel density estimates by regr
   performance of our proposed method compared to stateof-the-art density estimation
   methods such as Parzen windows, Gaussian Mixture Models, and $\epsilon$-Support
   Vector Density models [1].
-pdf: "./schaffoner07a/schaffoner07a.pdf"
+pdf: http://proceedings.pmlr.press/schaffoner07a/schaffoner07a.pdf
 layout: inproceedings
 id: schaffoner07a
 month: 0
@@ -30,6 +30,6 @@ author:
   family: Krüger
 - given: Andreas
   family: Wendemuth
-date: '2007-03-11 00:07:08'
+date: '2007-03-11'
 publisher: PMLR
 ---
