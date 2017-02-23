@@ -6,9 +6,9 @@ abstract: 'Label ranking is the task of ordering labels with respect to their re
   who receives all the examples in advance and sets its label ranker to be the optimal
   solution of a constrained optimization problem. This optimization problem consists
   of two terms: the empirical label-ranking loss of the competitor and a complexity
-  measure of the competitor''s ranking function. We then describe and analyze a framework
+  measure of the competitor’s ranking function. We then describe and analyze a framework
   for online label ranking that incrementally ascends the dual problem corresponding
-  to the competitor''s optimization problem. The generality of our framework enables
+  to the competitor’s optimization problem. The generality of our framework enables
   us to derive new online update schemes. In particular, we use the relative entropy
   as a complexity measure to derive efficient multiplicative algorithms for the label
   ranking task. Depending on the specific form of the instances, the multiplicative

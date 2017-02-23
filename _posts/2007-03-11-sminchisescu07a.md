@@ -6,9 +6,9 @@ abstract: One of the main shortcomings of Markov chain Monte Carlo samplers is t
   MCMC sampler by introducing mode-hopping moves that satisfy detailed balance. The
   proposed sampling algorithm explores local mode structure through local MCMC moves
   (e.g. diffusion or Hybrid Monte Carlo) but in addition also represents the relative
-  strengths of the different modes correctly using a set of global moves. This `mode-hopping'
+  strengths of the different modes correctly using a set of global moves. This ‘mode-hopping’
   MCMC sampler can be viewed as a generalization of the darting method [1]. We illustrate
-  the method on a `real world' vision application of inferring 3-D human body pose
+  the method on a ‘real world’ vision application of inferring 3-D human body pose
   from single 2-D images.
 pdf: http://proceedings.pmlr.press/sminchisescu07a/sminchisescu07a.pdf
 layout: inproceedings
