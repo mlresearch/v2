@@ -22,6 +22,8 @@ layout: proceedings
 id: MeilaMSX2007
 month: 0
 abstract: ''
+origpdf: 
+pdf: http://proceedings.mlr.press/v2/MeilaMSX2007/MeilaMSX2007.pdf
 editor:
 - given: Marina
   family: Meila
@@ -53,4 +55,3 @@ conference:
 analytics:
   google:
     tracking_id: UA-92432422-1
-reponame: v2

@@ -8,20 +8,20 @@ abstract: We consider the problem of learning Bayes Net structures for related t
   way. Experiments on problems generated from the ALARM and INSURANCE networks show
   that learning the structures for related tasks using the proposed method yields
   better results than learning the structures independently.
-pdf: http://jmlr.org/proceedings/papers/v2/niculescu-mizil07a/niculescu-mizil07a.pdf
+pdf: http://proceedings.mlr.press/v/niculescu-mizil07a/niculescu-mizil07a.pdf
 layout: inproceedings
 id: niculescu-mizil07a
 month: 0
 firstpage: 339
 lastpage: 346
 page: 339-346
+origpdf: http://jmlr.org/proceedings/papers/v2/niculescu-mizil07a/niculescu-mizil07a.pdf
 sections: 
 author:
 - given: Alexandru
   family: Niculescu-Mizil
 - given: Rich
   family: Caruana
-reponame: v2
 date: 2007-03-11
 address: San Juan, Puerto Rico
 publisher: PMLR
