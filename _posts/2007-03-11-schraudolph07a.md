@@ -24,6 +24,6 @@ author:
   family: Yu
 - given: Simon
   family: Günter
-date: '2007-03-11'
+date: 2007-03-11
 publisher: PMLR
 ---

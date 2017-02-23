@@ -22,6 +22,6 @@ author:
   family: Niculescu-Mizil
 - given: Rich
   family: Caruana
-date: '2007-03-11'
+date: 2007-03-11
 publisher: PMLR
 ---

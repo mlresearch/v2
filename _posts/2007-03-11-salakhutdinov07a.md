@@ -23,6 +23,6 @@ author:
   family: Salakhutdinov
 - given: Geoff
   family: Hinton
-date: '2007-03-11'
+date: 2007-03-11
 publisher: PMLR
 ---

@@ -29,6 +29,6 @@ author:
   family: Shalev-Shwartz
 - given: Yoram
   family: Singer
-date: '2007-03-11'
+date: 2007-03-11
 publisher: PMLR
 ---

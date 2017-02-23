@@ -26,6 +26,6 @@ author:
   family: Rifkin
 - given: Josh
   family: Tenenbaum
-date: '2007-03-11'
+date: 2007-03-11
 publisher: PMLR
 ---

@@ -30,6 +30,6 @@ author:
   family: Krüger
 - given: Andreas
   family: Wendemuth
-date: '2007-03-11'
+date: 2007-03-11
 publisher: PMLR
 ---

@@ -25,6 +25,6 @@ author:
   family: Weinberger
 - given: Gerald
   family: Tesauro
-date: '2007-03-11'
+date: 2007-03-11
 publisher: PMLR
 ---
