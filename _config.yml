@@ -46,6 +46,7 @@ conference:
   name: Artificial Intelligence and Statistics
   url: http://users.stat.umn.edu/~aistat/
   location: San Juan, Puerto Rico
+  dates: !ruby/object:Enumerator {}
 analytics:
   google:
     tracking_id: UA-92432422-1
