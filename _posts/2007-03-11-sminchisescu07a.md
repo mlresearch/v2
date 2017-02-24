@@ -15,8 +15,8 @@ layout: inproceedings
 series: Proceedings of Machine Learning Research
 id: sminchisescu07a
 month: 0
-firstpage: '516'
-lastpage: '523'
+firstpage: 516
+lastpage: 523
 page: 516-523
 sections: 
 author:

@@ -13,8 +13,8 @@ layout: inproceedings
 series: Proceedings of Machine Learning Research
 id: carreira-perpinan07a
 month: 0
-firstpage: '59'
-lastpage: '66'
+firstpage: 59
+lastpage: 66
 page: 59-66
 sections: 
 author:

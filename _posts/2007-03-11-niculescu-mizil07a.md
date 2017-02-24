@@ -13,8 +13,8 @@ layout: inproceedings
 series: Proceedings of Machine Learning Research
 id: niculescu-mizil07a
 month: 0
-firstpage: '339'
-lastpage: '346'
+firstpage: 339
+lastpage: 346
 page: 339-346
 sections: 
 author:

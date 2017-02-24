@@ -15,8 +15,8 @@ layout: inproceedings
 series: Proceedings of Machine Learning Research
 id: schaffoner07a
 month: 0
-firstpage: '428'
-lastpage: '435'
+firstpage: 428
+lastpage: 435
 page: 428-435
 sections: 
 author:
