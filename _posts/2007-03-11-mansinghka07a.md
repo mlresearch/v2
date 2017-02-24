@@ -13,8 +13,8 @@ layout: inproceedings
 series: Proceedings of Machine Learning Research
 id: mansinghka07a
 month: 0
-firstpage: 315
-lastpage: 322
+firstpage: '315'
+lastpage: '322'
 page: 315-322
 sections: 
 author:

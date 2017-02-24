@@ -20,8 +20,8 @@ layout: inproceedings
 series: Proceedings of Machine Learning Research
 id: shalev-shwartz07a
 month: 0
-firstpage: 452
-lastpage: 459
+firstpage: '452'
+lastpage: '459'
 page: 452-459
 sections: 
 author:

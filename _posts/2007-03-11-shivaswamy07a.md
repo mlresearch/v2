@@ -18,8 +18,8 @@ layout: inproceedings
 series: Proceedings of Machine Learning Research
 id: shivaswamy07a
 month: 0
-firstpage: 484
-lastpage: 491
+firstpage: '484'
+lastpage: '491'
 page: 484-491
 sections: 
 author:
