@@ -1,7 +1,0 @@
-<h2>Semi-Supervised Mean Fields</h2>
-<p><i><b>Fei Wang, Shijun Wang, Changshui Zhang, Ole Winther</b></i>;
-JMLR W&P 2:596-603, 2007.
-<h3>Abstract</h3>
-
-A novel semi-supervised learning approach based on statistical physics is proposed in this paper. We treat each data point as an Ising spin and the interaction between pairwise spins is captured by the similarity between the pairwise points. The labels of the data points are treated as the directions of the corresponding spins. In semi-supervised setting, some of the spins have fixed directions (which corresponds to the labeled data), and our task is to determine the directions of other spins. An approach based on the Mean Field theory is proposed to achieve this goal. Finally the experimental results on both toy and real world data sets are provided to show the effectiveness of our method.
-

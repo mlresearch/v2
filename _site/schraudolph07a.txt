@@ -1,7 +1,0 @@
-<h2>A Stochastic Quasi-Newton Method for Online Convex Optimization</h2>
-<p><i><b>Nicol N. Schraudolph, Jin Yu, Simon G&uuml;nter</b></i>;
-JMLR W&P 2:436-443, 2007.
-<h3>Abstract</h3>
-
-We develop stochastic variants of the well-known BFGS quasi-Newton optimization method, in both full and memory-limited (LBFGS) forms, for online optimization of convex functions. The resulting algorithm performs comparably to a well-tuned natural gradient descent but is scalable to very high-dimensional problems. On standard benchmarks in natural language processing, it asymptotically outperforms previous stochastic gradient methods for parameter estimation in conditional random fields. We are working on analyzing the convergence of online (L)BFGS, and extending it to nonconvex optimization problems.
-

@@ -1,7 +1,0 @@
-<h2>Fast Low-Rank Semidefinite Programming for Embedding and Clustering</h2>
-<p><i><b>Brian Kulis, Arun C. Surendran, John C. Platt</b></i>;
-JMLR W&P 2:235-242, 2007.
-<h3>Abstract</h3>
-
-Many non-convex problems in machine learning such as embedding and clustering have been solved using convex semidefinite relaxations. These semidefinite programs (SDPs) are expensive to solve and are hence limited to run on very small data sets. In this paper we show how we can improve the quality and speed of solving a number of these problems by casting them as low-rank SDPs and then directly solving them using a nonconvex optimization algorithm. In particular, we show that problems such as the k-means clustering and maximum variance unfolding (MVU) may be expressed exactly as low-rank SDPs and solved using our approach. We demonstrate that in the above problems our approach is significantly faster, far more scalable and often produces better results compared to traditional SDP relaxation techniques.
-
