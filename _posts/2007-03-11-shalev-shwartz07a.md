@@ -17,6 +17,7 @@ abstract: 'Label ranking is the task of ordering labels with respect to their re
   of our approach in a few experiments with email categorization tasks.'
 pdf: http://proceedings.mlr.press/v2/shalev-shwartz07a/shalev-shwartz07a.pdf
 layout: inproceedings
+series: Proceedings of Machine Learning Research
 id: shalev-shwartz07a
 month: 0
 firstpage: 452

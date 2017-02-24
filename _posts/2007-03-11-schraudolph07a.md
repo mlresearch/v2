@@ -10,6 +10,7 @@ abstract: We develop stochastic variants of the well-known BFGS quasi-Newton opt
   to nonconvex optimization problems.
 pdf: http://proceedings.mlr.press/v2/schraudolph07a/schraudolph07a.pdf
 layout: inproceedings
+series: Proceedings of Machine Learning Research
 id: schraudolph07a
 month: 0
 firstpage: 436

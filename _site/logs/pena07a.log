@@ -1,0 +1,16 @@
+--17:25:34--  http://www.stat.umn.edu/~aistat/proceedings/data/papers/046.pdf
+Resolving www.stat.umn.edu... 134.84.86.2
+Connecting to www.stat.umn.edu|134.84.86.2|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 276915 (270K) [application/pdf]
+Saving to: `pena07a/pena07a.pdf'
+
+     0K .......... .......... .......... .......... .......... 18% 93.6K 2s
+    50K .......... .......... .......... .......... .......... 36%  144K 2s
+   100K .......... .......... .......... .......... .......... 55%  144K 1s
+   150K .......... .......... .......... .......... .......... 73%  252K 1s
+   200K .......... .......... .......... .......... .......... 92%  145K 0s
+   250K .......... ..........                                 100%  126K=1.9s
+
+17:25:37 (140 KB/s) - `pena07a/pena07a.pdf' saved [276915/276915]
+

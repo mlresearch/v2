@@ -1,0 +1,14 @@
+--17:24:34--  http://www.stat.umn.edu/~aistat/proceedings/data/papers/023.pdf
+Resolving www.stat.umn.edu... 134.84.86.2
+Connecting to www.stat.umn.edu|134.84.86.2|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 198527 (194K) [application/pdf]
+Saving to: `hardoon07a/hardoon07a.pdf'
+
+     0K .......... .......... .......... .......... .......... 25% 93.3K 2s
+    50K .......... .......... .......... .......... .......... 51%  151K 1s
+   100K .......... .......... .......... .......... .......... 77%  283K 0s
+   150K .......... .......... .......... .......... ...       100%  859K=1.1s
+
+17:24:35 (177 KB/s) - `hardoon07a/hardoon07a.pdf' saved [198527/198527]
+

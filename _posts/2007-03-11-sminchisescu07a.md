@@ -12,6 +12,7 @@ abstract: One of the main shortcomings of Markov chain Monte Carlo samplers is t
   from single 2-D images.
 pdf: http://proceedings.mlr.press/v2/sminchisescu07a/sminchisescu07a.pdf
 layout: inproceedings
+series: Proceedings of Machine Learning Research
 id: sminchisescu07a
 month: 0
 firstpage: 516

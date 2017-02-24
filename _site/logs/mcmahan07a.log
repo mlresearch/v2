@@ -1,0 +1,15 @@
+--17:25:25--  http://www.stat.umn.edu/~aistat/proceedings/data/papers/041.pdf
+Resolving www.stat.umn.edu... 134.84.86.2
+Connecting to www.stat.umn.edu|134.84.86.2|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 236617 (231K) [application/pdf]
+Saving to: `mcmahan07a/mcmahan07a.pdf'
+
+     0K .......... .......... .......... .......... .......... 21% 93.3K 2s
+    50K .......... .......... .......... .......... .......... 43%  145K 1s
+   100K .......... .......... .......... .......... .......... 64%  145K 1s
+   150K .......... .......... .......... .......... .......... 86%  148K 0s
+   200K .......... .......... .......... .                    100%  773K=1.6s
+
+17:25:27 (144 KB/s) - `mcmahan07a/mcmahan07a.pdf' saved [236617/236617]
+

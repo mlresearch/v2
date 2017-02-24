@@ -10,6 +10,7 @@ abstract: We consider the problem of learning Bayes Net structures for related t
   better results than learning the structures independently.
 pdf: http://proceedings.mlr.press/v2/niculescu-mizil07a/niculescu-mizil07a.pdf
 layout: inproceedings
+series: Proceedings of Machine Learning Research
 id: niculescu-mizil07a
 month: 0
 firstpage: 339

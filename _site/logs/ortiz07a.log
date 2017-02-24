@@ -1,0 +1,14 @@
+--17:25:31--  http://www.stat.umn.edu/~aistat/proceedings/data/papers/044.pdf
+Resolving www.stat.umn.edu... 134.84.86.2
+Connecting to www.stat.umn.edu|134.84.86.2|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 183775 (179K) [application/pdf]
+Saving to: `ortiz07a/ortiz07a.pdf'
+
+     0K .......... .......... .......... .......... .......... 27% 93.8K 1s
+    50K .......... .......... .......... .......... .......... 55%  144K 1s
+   100K .......... .......... .......... .......... .......... 83%  146K 0s
+   150K .......... .......... .........                       100%  169K=1.4s
+
+17:25:33 (128 KB/s) - `ortiz07a/ortiz07a.pdf' saved [183775/183775]
+

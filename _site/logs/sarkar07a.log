@@ -1,0 +1,16 @@
+--17:26:02--  http://www.stat.umn.edu/~aistat/proceedings/data/papers/053.pdf
+Resolving www.stat.umn.edu... 134.84.86.2
+Connecting to www.stat.umn.edu|134.84.86.2|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 263869 (258K) [application/pdf]
+Saving to: `sarkar07a/sarkar07a.pdf'
+
+     0K .......... .......... .......... .......... .......... 19% 93.4K 2s
+    50K .......... .......... .......... .......... .......... 38%  145K 1s
+   100K .......... .......... .......... .......... .......... 58%  148K 1s
+   150K .......... .......... .......... .......... .......... 77%  250K 0s
+   200K .......... .......... .......... .......... .......... 97%  151K 0s
+   250K .......                                               100%  812K=1.8s
+
+17:26:04 (146 KB/s) - `sarkar07a/sarkar07a.pdf' saved [263869/263869]
+

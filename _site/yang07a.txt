@@ -1,0 +1,7 @@
+<h2>How Powerful Can Any Regression Learning Procedure Be?</h2>
+<p><i><b>Yuhong Yang</b></i>;
+JMLR W&P 2:636-643, 2007.
+<h3>Abstract</h3>
+
+Efforts have been directed at obtaining flexible learning procedures that optimally adapt to various possible characteristics of the data generating mechanism. A question that addresses the issue of how far one can go in this direction is: Given a regression procedure, however sophisticated it is, how many regression functions are estimated accurately? In this work, for a given sequence of prescribed estimation accuracy (in sample size), we give an upper bound (in terms of metric entropy) on the number of regression functions for which the accuracy is achieved. Interesting consequences on adaptive and sparse estimations are also given.
+

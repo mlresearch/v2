@@ -10,6 +10,7 @@ abstract: We introduce the Laplacian Eigenmaps Latent Variable Model (LELVM), a 
   to perform well with motion-capture data.
 pdf: http://proceedings.mlr.press/v2/carreira-perpinan07a/carreira-perpinan07a.pdf
 layout: inproceedings
+series: Proceedings of Machine Learning Research
 id: carreira-perpinan07a
 month: 0
 firstpage: 59

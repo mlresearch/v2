@@ -10,6 +10,7 @@ abstract: We present AClass, a simple, online, parallelizable algorithm for supe
   classification algorithms and show competitive performance.
 pdf: http://proceedings.mlr.press/v2/mansinghka07a/mansinghka07a.pdf
 layout: inproceedings
+series: Proceedings of Machine Learning Research
 id: mansinghka07a
 month: 0
 firstpage: 315

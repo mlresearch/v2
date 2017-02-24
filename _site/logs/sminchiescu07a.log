@@ -1,0 +1,15 @@
+--17:26:42--  http://www.stat.umn.edu/~aistat/proceedings/data/papers/065.pdf
+Resolving www.stat.umn.edu... 134.84.86.2
+Connecting to www.stat.umn.edu|134.84.86.2|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 224029 (219K) [application/pdf]
+Saving to: `sminchiescu07a/sminchiescu07a.pdf'
+
+     0K .......... .......... .......... .......... .......... 22% 93.6K 2s
+    50K .......... .......... .......... .......... .......... 45%  147K 1s
+   100K .......... .......... .......... .......... .......... 68%  153K 1s
+   150K .......... .......... .......... .......... .......... 91%  252K 0s
+   200K .......... ........                                   100%  125K=1.6s
+
+17:26:44 (141 KB/s) - `sminchiescu07a/sminchiescu07a.pdf' saved [224029/224029]
+

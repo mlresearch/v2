@@ -1,0 +1,14 @@
+--17:26:54--  http://www.stat.umn.edu/~aistat/proceedings/data/papers/070.pdf
+Resolving www.stat.umn.edu... 134.84.86.2
+Connecting to www.stat.umn.edu|134.84.86.2|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 154518 (151K) [application/pdf]
+Saving to: `teh07a/teh07a.pdf'
+
+     0K .......... .......... .......... .......... .......... 33% 93.1K 1s
+    50K .......... .......... .......... .......... .......... 66%  147K 0s
+   100K .......... .......... .......... .......... .......... 99%  152K 0s
+   150K                                                       100% 5.42M=1.2s
+
+17:26:56 (125 KB/s) - `teh07a/teh07a.pdf' saved [154518/154518]
+

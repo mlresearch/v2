@@ -1,0 +1,15 @@
+--17:26:35--  http://www.stat.umn.edu/~aistat/proceedings/data/papers/062.pdf
+Resolving www.stat.umn.edu... 134.84.86.2
+Connecting to www.stat.umn.edu|134.84.86.2|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 212067 (207K) [application/pdf]
+Saving to: `siddiqi07a/siddiqi07a.pdf'
+
+     0K .......... .......... .......... .......... .......... 24% 93.4K 2s
+    50K .......... .......... .......... .......... .......... 48%  147K 1s
+   100K .......... .......... .......... .......... .......... 72%  153K 0s
+   150K .......... .......... .......... .......... .......... 96%  251K 0s
+   200K .......                                               100% 51.1K=1.5s
+
+17:26:37 (134 KB/s) - `siddiqi07a/siddiqi07a.pdf' saved [212067/212067]
+

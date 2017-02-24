@@ -1,0 +1,7 @@
+<h2>Kernel Multi-task Learning using Task-specific Features</h2>
+<p><i><b>Edwin V. Bonilla, Felix V. Agakov, Christopher K. I. Williams</b></i>;
+JMLR W&P 2:43-50, 2007.
+<h3>Abstract</h3>
+
+In this paper we are concerned with multitask learning when task-specific features are available. We describe two ways of achieving this using Gaussian process predictors: in the first method, the data from all tasks is combined into one dataset, making use of the task-specific features. In the second method we train specific predictors for each reference task, and then combine their predictions using a gating network. We demonstrate these methods on a compiler performance prediction problem, where a task is defined as predicting the speed-up obtained when applying a sequence of code transformations to a given program.
+

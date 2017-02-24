@@ -1,0 +1,14 @@
+--17:25:09--  http://www.stat.umn.edu/~aistat/proceedings/data/papers/037.pdf
+Resolving www.stat.umn.edu... 134.84.86.2
+Connecting to www.stat.umn.edu|134.84.86.2|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 163947 (160K) [application/pdf]
+Saving to: `liu07b/liu07b.pdf'
+
+     0K .......... .......... .......... .......... .......... 31% 72.1K 2s
+    50K .......... .......... .......... .......... .......... 62% 90.2K 1s
+   100K .......... .......... .......... .......... .......... 93%  137K 0s
+   150K ..........                                            100% 62.3K=1.8s
+
+17:25:11 (90.3 KB/s) - `liu07b/liu07b.pdf' saved [163947/163947]
+

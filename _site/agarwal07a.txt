@@ -1,0 +1,7 @@
+<h2>Generalized Non-metric Multidimensional Scaling</h2>
+<p><i><b>Sameer Agarwal, Josh Wills, Lawrence Cayton, Gert Lanckriet, David Kriegman, Serge Belongie</b></i>;
+JMLR W&P 2:11-18, 2007.
+<h3>Abstract</h3>
+
+We consider the non-metric multidimensional scaling problem: given a set of dissimilarities $\Delta$, find an embedding whose inter-point Euclidean distances have the same ordering as $\Delta$. In this paper, we look at a generalization of this problem in which only a set of order relations of the form $d_{ij} < d_{kl}$ are provided. Unlike the original problem, these order relations can be contradictory and need not be specified for all pairs of dissimilarities. We argue that this setting is more natural in some experimental settings and propose an algorithm based on convex optimization techniques to solve this problem. We apply this algorithm to human subject data from a psychophysics experiment concerning how reflectance properties are perceived. We also look at the standard NMDS problem, where a dissimilarity matrix $\Delta$ is provided as input, and show that we can always find an orderrespecting embedding of $\Delta$.
+

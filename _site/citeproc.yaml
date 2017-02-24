@@ -1,0 +1,2227 @@
+
+- title: "Preface"
+  volume: 2
+  URL: http://proceedings.mlr.press/v2/meila07a.html
+  PDF: http://proceedings.pmlr.press/meila07a/meila07a.pdf
+  container-title: Proceedings of the Eleventh International Conference on Artificial Intelligence and Statistics
+  publisher: PMLR  
+  author: 
+  - family: Meila
+    given: Marina
+  - family: Shen
+    given: Xiaotong
+  editor: 
+  - family: Meila
+    given: Marina
+  - family: Shen
+    given: Xiaotong
+  address: San Juan, Puerto Rico
+  page: 1-2
+  id: meila07a
+  issued:
+    date-parts: 
+      - 2007
+      - 3
+      - 11
+  abstract: "Preface to the Proceedings of the Eleventh International  Conference on Artificial Intelligence and Statistics  March 21-24, 2007, San Juan, Puerto Rico."
+- title: "Policy-Gradients for PSRs and POMDPs"
+  volume: 2
+  URL: http://proceedings.mlr.press/v2/aberdeen07a.html
+  PDF: http://proceedings.pmlr.press/aberdeen07a/aberdeen07a.pdf
+  container-title: Proceedings of the Eleventh International Conference on Artificial Intelligence and Statistics
+  publisher: PMLR  
+  author: 
+  - family: Aberdeen
+    given: Douglas
+  - family: Buffet
+    given: Olivier
+  - family: Thomas
+    given: Owen
+  editor: 
+  - family: Meila
+    given: Marina
+  - family: Shen
+    given: Xiaotong
+  address: San Juan, Puerto Rico
+  page: 3-10
+  id: aberdeen07a
+  issued:
+    date-parts: 
+      - 2007
+      - 3
+      - 11
+  abstract: "In uncertain and partially observable environments control policies must be a function of the complete history of actions and observations. Rather than present an ever growing history to a learner, we instead track sufficient statistics of the history and map those to a control policy. The mapping has typically been done using dynamic programming, requiring large amounts of memory. We present a general approach to mapping sufficient statistics directly to control policies by combining the tracking of sufficient statistics with the use of policy-gradient reinforcement learning. The best known sufficient statistic is the belief state, computed from a known or estimated partially observable Markov decision process (POMDP) model. More recently, predictive state representations (PSRs) have emerged as a potentially compact model of partially observable systems. Our experiments explore the usefulness of both of these sufficient statistics, exact and estimated, in direct policy-search."
+- title: "Generalized Non-metric Multidimensional Scaling"
+  volume: 2
+  URL: http://proceedings.mlr.press/v2/agarwal07a.html
+  PDF: http://proceedings.pmlr.press/agarwal07a/agarwal07a.pdf
+  container-title: Proceedings of the Eleventh International Conference on Artificial Intelligence and Statistics
+  publisher: PMLR  
+  author: 
+  - family: Agarwal
+    given: Sameer
+  - family: Wills
+    given: Josh
+  - family: Cayton
+    given: Lawrence
+  - family: Lanckriet
+    given: Gert
+  - family: Kriegman
+    given: David
+  - family: Belongie
+    given: Serge
+  editor: 
+  - family: Meila
+    given: Marina
+  - family: Shen
+    given: Xiaotong
+  address: San Juan, Puerto Rico
+  page: 11-18
+  id: agarwal07a
+  issued:
+    date-parts: 
+      - 2007
+      - 3
+      - 11
+  abstract: "We consider the non-metric multidimensional scaling problem: given a set of dissimilarities ∆, find an embedding whose inter-point Euclidean distances have the same ordering as ∆. In this paper, we look at a generalization of this problem in which only a set of order relations of the form d_ij < d_kl are provided. Unlike the original problem, these order relations can be contradictory and need not be specified for all pairs of dissimilarities. We argue that this setting is more natural in some experimental settings and propose an algorithm based on convex optimization techniques to solve this problem. We apply this algorithm to human subject data from a psychophysics experiment concerning how reflectance properties are perceived. We also look at the standard NMDS problem, where a dissimilarity matrix ∆is provided as input, and show that we can always find an orderrespecting embedding of ∆."
+- title: "Seeking The Truly Correlated Topic Posterior - on tight approximate inference of logistic-normal admixture model"
+  volume: 2
+  URL: http://proceedings.mlr.press/v2/ahmed07a.html
+  PDF: http://proceedings.pmlr.press/ahmed07a/ahmed07a.pdf
+  container-title: Proceedings of the Eleventh International Conference on Artificial Intelligence and Statistics
+  publisher: PMLR  
+  author: 
+  - family: Ahmed
+    given: Amr
+  - family: Xing
+    given: Eric P.
+  editor: 
+  - family: Meila
+    given: Marina
+  - family: Shen
+    given: Xiaotong
+  address: San Juan, Puerto Rico
+  page: 19-26
+  id: ahmed07a
+  issued:
+    date-parts: 
+      - 2007
+      - 3
+      - 11
+  abstract: "The Logistic-Normal Topic Admixture Model (LoNTAM), also known as correlated topic model (Blei and Lafferty, 2005), is a promising and expressive admixture-based text model. It can capture topic correlations via the use of a logistic-normal distribution to model non-trivial variabilities in the topic mixing vectors underlying documents. However, the non-conjugacy caused by the logistic-normal makes posterior inference and model learning significantly more challenging. In this paper, we present a new, tight approximate inference algorithm for LoNTAM based on a multivariate quadratic Taylor approximation scheme that facilitates elegant closed-form message passing. We present experimental results on simulated data as well as on the NIPS17 and PNAS document collections, and show that our approach is not only simple and easy to implement, but also it converges faster, and leads to more accurate recovery of the semantic truth underlying documents and estimates of the parameters comparing to previous methods."
+- title: "A Boosting Algorithm for Label Covering in Multilabel Problems"
+  volume: 2
+  URL: http://proceedings.mlr.press/v2/amit07a.html
+  PDF: http://proceedings.pmlr.press/amit07a/amit07a.pdf
+  container-title: Proceedings of the Eleventh International Conference on Artificial Intelligence and Statistics
+  publisher: PMLR  
+  author: 
+  - family: Amit
+    given: Yonatan
+  - family: Dekel
+    given: Ofer
+  - family: Singer
+    given: Yoram
+  editor: 
+  - family: Meila
+    given: Marina
+  - family: Shen
+    given: Xiaotong
+  address: San Juan, Puerto Rico
+  page: 27-34
+  id: amit07a
+  issued:
+    date-parts: 
+      - 2007
+      - 3
+      - 11
+  abstract: "We describe, analyze and experiment with a boosting algorithm for multilabel categorization problems. Our algorithm includes as special cases previously studied boosting algorithms such as Adaboost.MH. We cast the multilabel problem as multiple binary decision problems, based on a user-defined covering of the set of labels. We prove a lower bound on the progress made by our algorithm on each boosting iteration and demonstrate the merits of our algorithm in experiments with text categorization problems."
+- title: "Mixture of Watson Distributions: A Generative Model for Hyperspherical Embeddings"
+  volume: 2
+  URL: http://proceedings.mlr.press/v2/bijral07a.html
+  PDF: http://proceedings.pmlr.press/bijral07a/bijral07a.pdf
+  container-title: Proceedings of the Eleventh International Conference on Artificial Intelligence and Statistics
+  publisher: PMLR  
+  author: 
+  - family: Bijral
+    given: Avleen S.
+  - family: Breitenbach
+    given: Markus
+  - family: Grudic
+    given: Greg
+  editor: 
+  - family: Meila
+    given: Marina
+  - family: Shen
+    given: Xiaotong
+  address: San Juan, Puerto Rico
+  page: 35-42
+  id: bijral07a
+  issued:
+    date-parts: 
+      - 2007
+      - 3
+      - 11
+  abstract: "Machine learning applications often involve data that can be analyzed as unit vectors on a d-dimensional hypersphere, or equivalently are directional in nature. Spectral clustering techniques generate embeddings that constitute an example of directional data and can result in different shapes on a hypersphere (depending on the original structure). Other examples of directional data include text and some sub-domains of bioinformatics. The Watson distribution for directional data presents a tractable form and has more modeling capability than the simple von Mises-Fisher distribution. In this paper, we present a generative model of mixtures of Watson distributions on a hypersphere and derive numerical approximations of the parameters in an Expectation Maximization (EM) setting. This model also allows us to present an explanation for choosing the right embedding dimension for spectral clustering. We analyze the algorithm on a generated example and demonstrate its superiority over the existing algorithms through results on real datasets."
+- title: "Kernel Multi-task Learning using Task-specific Features"
+  volume: 2
+  URL: http://proceedings.mlr.press/v2/bonilla07a.html
+  PDF: http://proceedings.pmlr.press/bonilla07a/bonilla07a.pdf
+  container-title: Proceedings of the Eleventh International Conference on Artificial Intelligence and Statistics
+  publisher: PMLR  
+  author: 
+  - family: Bonilla
+    given: Edwin V.
+  - family: Agakov
+    given: Felix V.
+  - family: Williams
+    given: Christopher K. I.
+  editor: 
+  - family: Meila
+    given: Marina
+  - family: Shen
+    given: Xiaotong
+  address: San Juan, Puerto Rico
+  page: 43-50
+  id: bonilla07a
+  issued:
+    date-parts: 
+      - 2007
+      - 3
+      - 11
+  abstract: "In this paper we are concerned with multitask learning when task-specific features are available. We describe two ways of achieving this using Gaussian process predictors: in the first method, the data from all tasks is combined into one dataset, making use of the task-specific features. In the second method we train specific predictors for each reference task, and then combine their predictions using a gating network. We demonstrate these methods on a compiler performance prediction problem, where a task is defined as predicting the speed-up obtained when applying a sequence of code transformations to a given program."
+- title: "A Hybrid Pareto Model for Conditional Density Estimation of Asymmetric Fat-Tail Data"
+  volume: 2
+  URL: http://proceedings.mlr.press/v2/carreau07a.html
+  PDF: http://proceedings.pmlr.press/carreau07a/carreau07a.pdf
+  container-title: Proceedings of the Eleventh International Conference on Artificial Intelligence and Statistics
+  publisher: PMLR  
+  author: 
+  - family: Carreau
+    given: Julie
+  - family: Bengio
+    given: Yoshua
+  editor: 
+  - family: Meila
+    given: Marina
+  - family: Shen
+    given: Xiaotong
+  address: San Juan, Puerto Rico
+  page: 51-58
+  id: carreau07a
+  issued:
+    date-parts: 
+      - 2007
+      - 3
+      - 11
+  abstract: "We propose an estimator for the conditional density p(Y |X) that can adapt for asymmetric heavy tails which might depend on X. Such estimators have important applications in nance and insurance. We draw from Extreme Value Theory the tools to build a hybrid unimodal density having a parameter controlling the heaviness of the upper tail. This hybrid is a Gaussian whose upper tail has been replaced by a generalized Pareto tail. We use this hybrid in a multi-modal mixture in order to obtain a nonparametric density estimator that can easily adapt for heavy tailed data. To obtain a conditional density estimator, the parameters of the mixture estimator can be seen as functions of X and these functions learned. We show experimentally that this approach better models the conditional density in terms of likelihood than compared competing algorithms : conditional mixture models with other types of components and multivariate nonparametric models."
+- title: "The Laplacian Eigenmaps Latent Variable Model"
+  volume: 2
+  URL: http://proceedings.mlr.press/v2/carreira-perpinan07a.html
+  PDF: http://proceedings.pmlr.press/carreira-perpinan07a/carreira-perpinan07a.pdf
+  container-title: Proceedings of the Eleventh International Conference on Artificial Intelligence and Statistics
+  publisher: PMLR  
+  author: 
+  - family: Carreira-PerpiÃ±an
+    given: Miguel A.
+  - family: Lu
+    given: Zhengdong
+  editor: 
+  - family: Meila
+    given: Marina
+  - family: Shen
+    given: Xiaotong
+  address: San Juan, Puerto Rico
+  page: 59-66
+  id: carreira-perpinan07a
+  issued:
+    date-parts: 
+      - 2007
+      - 3
+      - 11
+  abstract: "We introduce the Laplacian Eigenmaps Latent Variable Model (LELVM), a probabilistic method for nonlinear dimensionality reduction that combines the advantages of spectral methods–global optimisation and ability to learn convoluted manifolds of high intrinsic dimensionality–with those of latent variable models–dimensionality reduction and reconstruction mappings and a density model. We derive LELVM by defining a natural out-of-sample mapping for Laplacian eigenmaps using a semi-supervised learning argument. LELVM is simple, nonparametric and computationally not very costly, and is shown to perform well with motion-capture data."
+- title: "Visualizing Similarity Data with a Mixture of Maps"
+  volume: 2
+  URL: http://proceedings.mlr.press/v2/cook07a.html
+  PDF: http://proceedings.pmlr.press/cook07a/cook07a.pdf
+  container-title: Proceedings of the Eleventh International Conference on Artificial Intelligence and Statistics
+  publisher: PMLR  
+  author: 
+  - family: Cook
+    given: James
+  - family: Sutskever
+    given: Ilya
+  - family: Mnih
+    given: Andriy
+  - family: Hinton
+    given: Geoffrey
+  editor: 
+  - family: Meila
+    given: Marina
+  - family: Shen
+    given: Xiaotong
+  address: San Juan, Puerto Rico
+  page: 67-74
+  id: cook07a
+  issued:
+    date-parts: 
+      - 2007
+      - 3
+      - 11
+  abstract: "We show how to visualize a set of pairwise similarities between objects by using several different two-dimensional maps, each of which captures different aspects of the similarity structure. When the objects are ambiguous words, for example, different senses of a word occur in different maps, so “river” and “loan” can both be close to “bank” without being at all close to each other. Aspect maps resemble clustering because they model pair-wise similarities as a mixture of different types of similarity, but they also resemble local multi-dimensional scaling because they model each type of similarity by a twodimensional map. We demonstrate our method on a toy example, a database of human wordassociation data, a large set of images of handwritten digits, and a set of feature vectors that represent words."
+- title: "Solving Markov Random Fields with Spectral Relaxation"
+  volume: 2
+  URL: http://proceedings.mlr.press/v2/cour07a.html
+  PDF: http://proceedings.pmlr.press/cour07a/cour07a.pdf
+  container-title: Proceedings of the Eleventh International Conference on Artificial Intelligence and Statistics
+  publisher: PMLR  
+  author: 
+  - family: Cour
+    given: Timothee
+  - family: Shi
+    given: Jianbo
+  editor: 
+  - family: Meila
+    given: Marina
+  - family: Shen
+    given: Xiaotong
+  address: San Juan, Puerto Rico
+  page: 75-82
+  id: cour07a
+  issued:
+    date-parts: 
+      - 2007
+      - 3
+      - 11
+  abstract: "Markov Random Fields (MRFs) are used in a large array of computer vision and maching learning applications. Finding the Maximum Aposteriori (MAP) solution of an MRF is in general intractable, and one has to resort to approximate solutions, such as Belief Propagation, Graph Cuts, or more recently, approaches based on quadratic programming. We propose a novel type of approximation, Spectral relaxation to Quadratic Programming (SQP). We show our method offers tighter bounds than recently published work, while at the same time being computationally efficient. We compare our method to other algorithms on random MRFs in various settings."
+- title: "Fast search for Dirichlet process mixture models"
+  volume: 2
+  URL: http://proceedings.mlr.press/v2/daume07a.html
+  PDF: http://proceedings.pmlr.press/daume07a/daume07a.pdf
+  container-title: Proceedings of the Eleventh International Conference on Artificial Intelligence and Statistics
+  publisher: PMLR  
+  author: 
+  - family: III
+    given: Hal Daume
+  editor: 
+  - family: Meila
+    given: Marina
+  - family: Shen
+    given: Xiaotong
+  address: San Juan, Puerto Rico
+  page: 83-90
+  id: daume07a
+  issued:
+    date-parts: 
+      - 2007
+      - 3
+      - 11
+  abstract: "Dirichlet process (DP) mixture models provide a flexible Bayesian framework for density estimation. Unfortunately, their flexibility comes at a cost: inference in DP mixture models is computationally expensive, even when conjugate distributions are used. In the common case when one seeks only a maximum a posteriori assignment of data points to clusters, we show that search algorithms provide a practical alternative to expensive MCMC and variational techniques. When a true posterior sample is desired, the solution found by search can serve as a good initializer for MCMC. Experimental results show that using these techniques is it possible to apply DP mixture models to very large data sets."
+- title: "Large-Margin Classification in Banach Spaces"
+  volume: 2
+  URL: http://proceedings.mlr.press/v2/der07a.html
+  PDF: http://proceedings.pmlr.press/der07a/der07a.pdf
+  container-title: Proceedings of the Eleventh International Conference on Artificial Intelligence and Statistics
+  publisher: PMLR  
+  author: 
+  - family: Der
+    given: Ricky
+  - family: Lee
+    given: Daniel
+  editor: 
+  - family: Meila
+    given: Marina
+  - family: Shen
+    given: Xiaotong
+  address: San Juan, Puerto Rico
+  page: 91-98
+  id: der07a
+  issued:
+    date-parts: 
+      - 2007
+      - 3
+      - 11
+  abstract: "We propose a framework for dealing with binary hard-margin classification in Banach spaces, centering on the use of a supporting semi-inner-product (s.i.p.) taking the place of an inner-product in Hilbert spaces. The theory of semi-inner-product spaces allows for a geometric, Hilbert-like formulation of the problems, and we show that a surprising number of results from the Euclidean case can be appropriately generalised. These include the Representer theorem, convexity of the associated optimization programs, and even, for a particular class of Banach spaces, a “kernel trick” for non-linear classification."
+- title: "Learning A* underestimates : Using inference to guide inference"
+  volume: 2
+  URL: http://proceedings.mlr.press/v2/druck07a.html
+  PDF: http://proceedings.pmlr.press/druck07a/druck07a.pdf
+  container-title: Proceedings of the Eleventh International Conference on Artificial Intelligence and Statistics
+  publisher: PMLR  
+  author: 
+  - family: Druck
+    given: Gregory
+  - family: Narasimhan
+    given: Mukund
+  - family: Viola
+    given: Paul
+  editor: 
+  - family: Meila
+    given: Marina
+  - family: Shen
+    given: Xiaotong
+  address: San Juan, Puerto Rico
+  page: 99-106
+  id: druck07a
+  issued:
+    date-parts: 
+      - 2007
+      - 3
+      - 11
+  abstract: "We present a technique for speeding up inference of structured variables using a prioritydriven search algorithm rather than the more conventional dynamic programing. A priority-driven search algorithm is guaranteed to return the optimal answer if the priority function is an underestimate of the true cost function. We introduce the notion of a probable approximate underestimate, and show that it can be used to compute a probable approximate solution to the inference problem when used as a priority function. We show that we can learn probable approximate underestimate functions which have the functional form of simpler, easy to decode models. These models can be learned from unlabeled data by solving a linear/quadratic optimization problem. As a result, we get a priority function that can be computed quickly, and results in solutions that are (provably) almost optimal most of the time. Using these ideas, discriminative classifiers such as semi-Markov CRFs and discriminative parsers can be sped up using a generalization of the A* algorithm. Further, this technique resolves one of the biggest obstacles to the use of A* as a general decoding procedure, namely that of coming up with a admissible priority function. Applying this technique results in a algorithm that is more than 3 times as fast as the Viterbi algorithm for decoding semi-Markov Conditional Markov Models."
+- title: "Exact Bayesian structure learning from uncertain interventions"
+  volume: 2
+  URL: http://proceedings.mlr.press/v2/eaton07a.html
+  PDF: http://proceedings.pmlr.press/eaton07a/eaton07a.pdf
+  container-title: Proceedings of the Eleventh International Conference on Artificial Intelligence and Statistics
+  publisher: PMLR  
+  author: 
+  - family: Eaton
+    given: Daniel
+  - family: Murphy
+    given: Kevin
+  editor: 
+  - family: Meila
+    given: Marina
+  - family: Shen
+    given: Xiaotong
+  address: San Juan, Puerto Rico
+  page: 107-114
+  id: eaton07a
+  issued:
+    date-parts: 
+      - 2007
+      - 3
+      - 11
+  abstract: "We show how to apply the dynamic programming algorithm of Koivisto and Sood [KS04, Koi06], which computes the exact posterior marginal edge probabilities p(G_ij = 1|D) of a DAG G given data D, to the case where the data is obtained by interventions (experiments). In particular, we consider the case where the targets of the interventions are a priori unknown. We show that it is possible to learn the targets of intervention at the same time as learning the causal structure. We apply our exact technique to a biological data set that had previously been analyzed using MCMC [SPP+ 05, EW06, WGH06]."
+- title: "Online Learning of Search Heuristics"
+  volume: 2
+  URL: http://proceedings.mlr.press/v2/fink07a.html
+  PDF: http://proceedings.pmlr.press/fink07a/fink07a.pdf
+  container-title: Proceedings of the Eleventh International Conference on Artificial Intelligence and Statistics
+  publisher: PMLR  
+  author: 
+  - family: Fink
+    given: Michael
+  editor: 
+  - family: Meila
+    given: Marina
+  - family: Shen
+    given: Xiaotong
+  address: San Juan, Puerto Rico
+  page: 115-122
+  id: fink07a
+  issued:
+    date-parts: 
+      - 2007
+      - 3
+      - 11
+  abstract: "In this paper we learn heuristic functions that efficiently find the shortest path between two nodes in a graph. We rely on the fact that often, several elementary admissible heuristics might be provided, either by human designers or from formal domain abstractions. These simple heuristics are traditionally composed into a new admissible heuristic by selecting the highest scoring elementary heuristic in each distance evaluation. We suggest that learning a weighted sum over the elementary heuristics can often generate a heuristic with higher dominance than the heuristic defined by the highest score selection. The weights within our composite heuristic are trained in an online manner using nodes to which the true distance has already been revealed during previous search stages. Several experiments demonstrate that the proposed method typically finds the optimal path while significantly reducing the search complexity. Our theoretical analysis describes conditions under which finding the shortest path can be guaranteed."
+- title: "Deterministic Annealing for Multiple-Instance Learning"
+  volume: 2
+  URL: http://proceedings.mlr.press/v2/gehler07a.html
+  PDF: http://proceedings.pmlr.press/gehler07a/gehler07a.pdf
+  container-title: Proceedings of the Eleventh International Conference on Artificial Intelligence and Statistics
+  publisher: PMLR  
+  author: 
+  - family: Gehler
+    given: Peter V.
+  - family: Chapelle
+    given: Olivier
+  editor: 
+  - family: Meila
+    given: Marina
+  - family: Shen
+    given: Xiaotong
+  address: San Juan, Puerto Rico
+  page: 123-130
+  id: gehler07a
+  issued:
+    date-parts: 
+      - 2007
+      - 3
+      - 11
+  abstract: "In this paper we demonstrate how deterministic annealing can be applied to different SVM formulations of the multiple-instance learning (MIL) problem. Our results show that we find better local minima compared to the heuristic methods those problems are usually solved with. However this does not always translate into a better test error suggesting an inadequacy of the objective function. Based on this finding we propose a new objective function which together with the deterministic annealing algorithm finds better local minima and achieves better performance on a set of benchmark datasets. Furthermore the results also show how the structure of MIL datasets influence the performance of MIL algorithms and we discuss how future benchmark datasets for the MIL problem should be designed."
+- title: "Approximate inference using conditional entropy decompositions"
+  volume: 2
+  URL: http://proceedings.mlr.press/v2/globerson07a.html
+  PDF: http://proceedings.pmlr.press/globerson07a/globerson07a.pdf
+  container-title: Proceedings of the Eleventh International Conference on Artificial Intelligence and Statistics
+  publisher: PMLR  
+  author: 
+  - family: Globerson
+    given: Amir
+  - family: Jaakkola
+    given: Tommi
+  editor: 
+  - family: Meila
+    given: Marina
+  - family: Shen
+    given: Xiaotong
+  address: San Juan, Puerto Rico
+  page: 131-138
+  id: globerson07a
+  issued:
+    date-parts: 
+      - 2007
+      - 3
+      - 11
+  abstract: "We introduce a novel method for estimating the partition function and marginals of distributions defined using graphical models. The method uses the entropy chain rule to obtain an upper bound on the entropy of a distribution given marginal distributions of variable subsets. The structure of the bound is determined by a permutation, or elimination order, of the model variables. Optimizing this bound results in an upper bound on the log partition function, and also yields an approximation to the model marginals. The optimization problem is convex, and is in fact a dual of a geometric program. We evaluate the method on a 2D Ising model with a wide range of parameters, and show that it compares favorably with previous methods in terms of both partition function bound, and accuracy of marginals."
+- title: "Visualizing pairwise similarity via semidefinite programming"
+  volume: 2
+  URL: http://proceedings.mlr.press/v2/globerson07b.html
+  PDF: http://proceedings.pmlr.press/globerson07b/globerson07b.pdf
+  container-title: Proceedings of the Eleventh International Conference on Artificial Intelligence and Statistics
+  publisher: PMLR  
+  author: 
+  - family: Globerson
+    given: Amir
+  - family: Roweis
+    given: Sam
+  editor: 
+  - family: Meila
+    given: Marina
+  - family: Shen
+    given: Xiaotong
+  address: San Juan, Puerto Rico
+  page: 139-146
+  id: globerson07b
+  issued:
+    date-parts: 
+      - 2007
+      - 3
+      - 11
+  abstract: "We introduce a novel learning algorithm for binary pairwise similarity measurements on a set of objects. The algorithm delivers an embedding of the objects into a vector representation space that strictly respects the known similarities, in the sense that objects known to be similar are always closer in the embedding than those known to be dissimilar. Subject to this constraint, our method selects the mapping in which the variance of the embedded points is maximized. This has the effect of favoring embeddings with low effective dimensionality. The related optimization problem can be cast as a convex Semidefinite Program (SDP). We also present a parametric version of the problem, which can be used for embedding out of sample points. The parametric version uses kernels to obtain nonlinear maps, and can also be solved using an SDP. We apply the two algorithms to an image embedding problem, where it effectively captures the low dimensional structure corresponding to camera viewing parameters."
+- title: "SampleSearch: A Scheme that Searches for Consistent Samples"
+  volume: 2
+  URL: http://proceedings.mlr.press/v2/gogate07a.html
+  PDF: http://proceedings.pmlr.press/gogate07a/gogate07a.pdf
+  container-title: Proceedings of the Eleventh International Conference on Artificial Intelligence and Statistics
+  publisher: PMLR  
+  author: 
+  - family: Gogate
+    given: Vibhav
+  - family: Dechter
+    given: Rina
+  editor: 
+  - family: Meila
+    given: Marina
+  - family: Shen
+    given: Xiaotong
+  address: San Juan, Puerto Rico
+  page: 147-154
+  id: gogate07a
+  issued:
+    date-parts: 
+      - 2007
+      - 3
+      - 11
+  abstract: "Sampling from belief networks which have a substantial number of zero probabilities is problematic. MCMC algorithms like Gibbs sampling do not converge and importance sampling schemes generate many zero weight samples that are rejected, yielding an inefficient sampling process (the rejection problem). In this paper, we propose to augment importance sampling with systematic constraint-satisfaction search in order to overcome the rejection problem. The resulting SampleSearch scheme can be made unbiased by using a computationally expensive weighting scheme. To overcome this an approximation is proposed such that the resulting estimator is asymptotically unbiased. Our empirical results demonstrate the potential of our new scheme."
+- title: "Dissimilarity in Graph-Based Semi-Supervised Classification"
+  volume: 2
+  URL: http://proceedings.mlr.press/v2/goldberg07a.html
+  PDF: http://proceedings.pmlr.press/goldberg07a/goldberg07a.pdf
+  container-title: Proceedings of the Eleventh International Conference on Artificial Intelligence and Statistics
+  publisher: PMLR  
+  author: 
+  - family: Goldberg
+    given: Andrew B.
+  - family: Zhu
+    given: Xiaojin
+  - family: Wright
+    given: Stephen
+  editor: 
+  - family: Meila
+    given: Marina
+  - family: Shen
+    given: Xiaotong
+  address: San Juan, Puerto Rico
+  page: 155-162
+  id: goldberg07a
+  issued:
+    date-parts: 
+      - 2007
+      - 3
+      - 11
+  abstract: "Label dissimilarity specifies that a pair of examples probably have different class labels. We present a semi-supervised classification algorithm that learns from dissimilarity and similarity information on labeled and unlabeled data. Our approach uses a novel graphbased encoding of dissimilarity that results in a convex problem, and can handle both binary and multiclass classification. Experiments on several tasks are promising."
+- title: "Hidden Topic Markov Models"
+  volume: 2
+  URL: http://proceedings.mlr.press/v2/gruber07a.html
+  PDF: http://proceedings.pmlr.press/gruber07a/gruber07a.pdf
+  container-title: Proceedings of the Eleventh International Conference on Artificial Intelligence and Statistics
+  publisher: PMLR  
+  author: 
+  - family: Gruber
+    given: Amit
+  - family: Weiss
+    given: Yair
+  - family: Rosen-Zvi
+    given: Michal
+  editor: 
+  - family: Meila
+    given: Marina
+  - family: Shen
+    given: Xiaotong
+  address: San Juan, Puerto Rico
+  page: 163-170
+  id: gruber07a
+  issued:
+    date-parts: 
+      - 2007
+      - 3
+      - 11
+  abstract: "Algorithms such as Latent Dirichlet Allocation (LDA) have achieved significant progress in modeling word document relationships. These algorithms assume each word in the document was generated by a hidden topic and explicitly model the word distribution of each topic as well as the prior distribution over topics in the document. Given these parameters, the topics of all words in the same document are assumed to be independent. In this paper, we propose modeling the topics of words in the document as a Markov chain. Specifically, we assume that all words in the same sentence have the same topic, and successive sentences are more likely to have the same topics. Since the topics are hidden, this leads to using the well-known tools of Hidden Markov Models for learning and inference. We show that incorporating this dependency allows us to learn better topics and to disambiguate words that can belong to different topics. Quantitatively, we show that we obtain better perplexity in modeling documents with only a modest increase in learning and inference complexity."
+- title: "Space-Efficient Sampling"
+  volume: 2
+  URL: http://proceedings.mlr.press/v2/guha07a.html
+  PDF: http://proceedings.pmlr.press/guha07a/guha07a.pdf
+  container-title: Proceedings of the Eleventh International Conference on Artificial Intelligence and Statistics
+  publisher: PMLR  
+  author: 
+  - family: Guha
+    given: Sudipto
+  - family: McGregor
+    given: Andrew
+  editor: 
+  - family: Meila
+    given: Marina
+  - family: Shen
+    given: Xiaotong
+  address: San Juan, Puerto Rico
+  page: 171-178
+  id: guha07a
+  issued:
+    date-parts: 
+      - 2007
+      - 3
+      - 11
+  abstract: "We consider the problem of estimating nonparametric probability density functions from a sequence of independent samples. The central issue that we address is to what extent this can be achieved with only limited memory. Our main result is a space-efficient learning algorithm for determining the probability density function of a piecewise-linear distribution. However, the primary goal of this paper is to demonstrate the utility of various techniques from the burgeoning field of data stream processing in the context of learning algorithms."
+- title: "Information Retrieval by Inferring Implicit Queries from Eye Movements"
+  volume: 2
+  URL: http://proceedings.mlr.press/v2/hardoon07a.html
+  PDF: http://proceedings.pmlr.press/hardoon07a/hardoon07a.pdf
+  container-title: Proceedings of the Eleventh International Conference on Artificial Intelligence and Statistics
+  publisher: PMLR  
+  author: 
+  - family: Hardoon
+    given: David R.
+  - family: Shawe-Taylor
+    given: John
+  - family: Ajanki
+    given: Antti
+  - family: PuolamÃ¤ki
+    given: Kai
+  - family: Kaski
+    given: Samuel
+  editor: 
+  - family: Meila
+    given: Marina
+  - family: Shen
+    given: Xiaotong
+  address: San Juan, Puerto Rico
+  page: 179-186
+  id: hardoon07a
+  issued:
+    date-parts: 
+      - 2007
+      - 3
+      - 11
+  abstract: "We introduce a new search strategy, in which the information retrieval (IR) query is inferred from eye movements measured when the user is reading text during an IR task. In training phase, we know the users’ interest, that is, the relevance of training documents. We learn a predictor that produces a “query” given the eye movements; the target of learning is an “optimal” query that is computed based on the known relevance of the training documents. Assuming the predictor is universal with respect to the users’ interests, it can also be applied to infer the implicit query when we have no prior knowledge of the users’ interests. The result of an empirical study is that it is possible to learn the implicit query from a small set of read documents, such that relevance predictions for a large set of unseen documents are ranked significantly better than by random guessing."
+- title: "A Nonparametric Bayesian Approach to Modeling Overlapping Clusters"
+  volume: 2
+  URL: http://proceedings.mlr.press/v2/heller07a.html
+  PDF: http://proceedings.pmlr.press/heller07a/heller07a.pdf
+  container-title: Proceedings of the Eleventh International Conference on Artificial Intelligence and Statistics
+  publisher: PMLR  
+  author: 
+  - family: Heller
+    given: Katherine A.
+  - family: Ghahramani
+    given: Zoubin
+  editor: 
+  - family: Meila
+    given: Marina
+  - family: Shen
+    given: Xiaotong
+  address: San Juan, Puerto Rico
+  page: 187-194
+  id: heller07a
+  issued:
+    date-parts: 
+      - 2007
+      - 3
+      - 11
+  abstract: "Although clustering data into mutually exclusive partitions has been an extremely successful approach to unsupervised learning, there are many situations in which a richer model is needed to fully represent the data.  This is the case in problems where data points actually simultaneously belong to multiple, overlapping clusters. For example a particular gene may have several functions, therefore belonging to several distinct clusters of genes, and a biologist may want to discover these through unsupervised modeling of gene expression data. We present a new nonparametric Bayesian method, the Infinite Overlapping Mixture Model (IOMM), for modeling overlapping clusters. The IOMM uses exponential family distributions to model each cluster and forms an overlapping mixture by taking products of such distributions, much like products of experts (Hinton, 2002). The IOMM allows an unbounded number of clusters, and assignments of points to (multiple) clusters is modeled using an Indian Buffet Process (IBP), (Griffiths and Ghahramani, 2006). The IOMM has the desirable properties of being able to focus in on overlapping regions while maintaining the ability to model a potentially infinite number of clusters which may overlap. We derive MCMC inference algorithms for the IOMM and show that these can be used to cluster movies into multiple genres."
+- title: "Loopy Belief Propagation for Bipartite Maximum Weight b-Matching"
+  volume: 2
+  URL: http://proceedings.mlr.press/v2/huang07a.html
+  PDF: http://proceedings.pmlr.press/huang07a/huang07a.pdf
+  container-title: Proceedings of the Eleventh International Conference on Artificial Intelligence and Statistics
+  publisher: PMLR  
+  author: 
+  - family: Huang
+    given: Bert
+  - family: Jebara
+    given: Tony
+  editor: 
+  - family: Meila
+    given: Marina
+  - family: Shen
+    given: Xiaotong
+  address: San Juan, Puerto Rico
+  page: 195-202
+  id: huang07a
+  issued:
+    date-parts: 
+      - 2007
+      - 3
+      - 11
+  abstract: "We formulate the weighted b-matching objective function as a probability distribution function and prove that belief propagation (BP) on its graphical model converges to the optimum. Standard BP on our graphical model cannot be computed in polynomial time, but we introduce an algebraic method to circumvent the combinatorial message updates. Empirically, the resulting algorithm is on average faster than popular combinatorial implementations, while still scaling at the same asymptotic rate of O(bn^3). Furthermore, the algorithm shows promising performance in machine learning applications."
+- title: "Learning Markov Structure by Maximum Entropy Relaxation"
+  volume: 2
+  URL: http://proceedings.mlr.press/v2/johnson07a.html
+  PDF: http://proceedings.pmlr.press/johnson07a/johnson07a.pdf
+  container-title: Proceedings of the Eleventh International Conference on Artificial Intelligence and Statistics
+  publisher: PMLR  
+  author: 
+  - family: Johnson
+    given: Jason K.
+  - family: Chandrasekaran
+    given: Venkat
+  - family: Willsky
+    given: Alan S.
+  editor: 
+  - family: Meila
+    given: Marina
+  - family: Shen
+    given: Xiaotong
+  address: San Juan, Puerto Rico
+  page: 203-210
+  id: johnson07a
+  issued:
+    date-parts: 
+      - 2007
+      - 3
+      - 11
+  abstract: "We propose a new approach for learning a sparse graphical model approximation to a specified multivariate probability distribution (such as the empirical distribution of sample data). The selection of sparse graph structure arises naturally in our approach through solution of a convex optimization problem, which differentiates our method from standard combinatorial approaches. We seek the maximum entropy relaxation (MER) within an exponential family, which maximizes entropy subject to constraints that marginal distributions on small subsets of variables are close to the prescribed marginals in relative entropy. To solve MER, we present a modified primal-dual interior point method that exploits sparsity of the Fisher information matrix in models defined on chordal graphs. This leads to a tractable, scalable approach provided the level of relaxation in MER is sufficient to obtain a thin graph. The merits of our approach are investigated by recovering the structure of some simple graphical models from sample data."
+- title: "Multi-object tracking with representations of the symmetric group"
+  volume: 2
+  URL: http://proceedings.mlr.press/v2/kondor07a.html
+  PDF: http://proceedings.pmlr.press/kondor07a/kondor07a.pdf
+  container-title: Proceedings of the Eleventh International Conference on Artificial Intelligence and Statistics
+  publisher: PMLR  
+  author: 
+  - family: Kondor
+    given: Risi
+  - family: Howard
+    given: Andrew
+  - family: Jebara
+    given: Tony
+  editor: 
+  - family: Meila
+    given: Marina
+  - family: Shen
+    given: Xiaotong
+  address: San Juan, Puerto Rico
+  page: 211-218
+  id: kondor07a
+  issued:
+    date-parts: 
+      - 2007
+      - 3
+      - 11
+  abstract: "We present an efficient algorithm for approximately maintaining and updating a distribution over permutations matching tracks to real world objects. The algorithm hinges on two insights from the theory of harmonic analysis on noncommutative groups. The first is that most of the information in the distribution over permutations is captured by certain “low frequency” Fourier components. The second is that Bayesian updates of these components can be efficiently realized by extensions of Clausen’s FFT for the symmetric group."
+- title: "MDL Histogram Density Estimation"
+  volume: 2
+  URL: http://proceedings.mlr.press/v2/kontkanen07a.html
+  PDF: http://proceedings.pmlr.press/kontkanen07a/kontkanen07a.pdf
+  container-title: Proceedings of the Eleventh International Conference on Artificial Intelligence and Statistics
+  publisher: PMLR  
+  author: 
+  - family: Kontkanen
+    given: Petri
+  - family: MyllymÃ¤ki
+    given: Petri
+  editor: 
+  - family: Meila
+    given: Marina
+  - family: Shen
+    given: Xiaotong
+  address: San Juan, Puerto Rico
+  page: 219-226
+  id: kontkanen07a
+  issued:
+    date-parts: 
+      - 2007
+      - 3
+      - 11
+  abstract: "We regard histogram density estimation as a model selection problem. Our approach is based on the information-theoretic minimum description length (MDL) principle, which can be applied for tasks such as data clustering, density estimation, image denoising and model selection in general. MDL-based model selection is formalized via the normalized maximum likelihood (NML) distribution, which has several desirable optimality properties. We show how this framework can be applied for learning generic, irregular (variable-width bin) histograms, and how to compute the NML model selection criterion efficiently. We also derive a dynamic programming algorithm for finding both the MDL-optimal bin count and the cut point locations in polynomial time. Finally, we demonstrate our approach via simulation tests."
+- title: "Incorporating Prior Knowledge on Features into Learning"
+  volume: 2
+  URL: http://proceedings.mlr.press/v2/krupka07a.html
+  PDF: http://proceedings.pmlr.press/krupka07a/krupka07a.pdf
+  container-title: Proceedings of the Eleventh International Conference on Artificial Intelligence and Statistics
+  publisher: PMLR  
+  author: 
+  - family: Krupka
+    given: Eyal
+  - family: Tishby
+    given: Naftali
+  editor: 
+  - family: Meila
+    given: Marina
+  - family: Shen
+    given: Xiaotong
+  address: San Juan, Puerto Rico
+  page: 227-234
+  id: krupka07a
+  issued:
+    date-parts: 
+      - 2007
+      - 3
+      - 11
+  abstract: "In the standard formulation of supervised learning the input is represented as a vector of features.  However, in most real-life problems, we also have additional information about each of the features.  This information can be represented as a set of properties, referred to as meta-features. For instance, in an image recognition task, where the features are pixels, the meta-features can be the (x, y) position of each pixel. We propose a new learning framework that incorporates meta- features.  In this framework we assume that a weight is assigned to each feature, as in linear discrimination, and we use the meta-features to define a prior on the weights. This prior is based on a Gaussian process and the weights are assumed to be a smooth function of the meta-features. Using this framework we derive a practical algorithm that improves gen- eralization by using meta-features and discuss the theoretical advantages of incorporating them into the learning. We apply our framework to design a new kernel for hand-written digit recognition. We obtain higher accuracy with lower computational complexity in the primal representation. Finally, we discuss the applicability of this framework to biological neural networks."
+- title: "Fast Low-Rank Semidefinite Programming for Embedding and Clustering"
+  volume: 2
+  URL: http://proceedings.mlr.press/v2/kulis07a.html
+  PDF: http://proceedings.pmlr.press/kulis07a/kulis07a.pdf
+  container-title: Proceedings of the Eleventh International Conference on Artificial Intelligence and Statistics
+  publisher: PMLR  
+  author: 
+  - family: Kulis
+    given: Brian
+  - family: Surendran
+    given: Arun C.
+  - family: Platt
+    given: John C.
+  editor: 
+  - family: Meila
+    given: Marina
+  - family: Shen
+    given: Xiaotong
+  address: San Juan, Puerto Rico
+  page: 235-242
+  id: kulis07a
+  issued:
+    date-parts: 
+      - 2007
+      - 3
+      - 11
+  abstract: "Many non-convex problems in machine learning such as embedding and clustering have been solved using convex semidefinite relaxations. These semidefinite programs (SDPs) are expensive to solve and are hence limited to run on very small data sets. In this paper we show how we can improve the quality and speed of solving a number of these problems by casting them as low-rank SDPs and then directly solving them using a nonconvex optimization algorithm. In particular, we show that problems such as the k-means clustering and maximum variance unfolding (MVU) may be expressed exactly as low-rank SDPs and solved using our approach. We demonstrate that in the above problems our approach is significantly faster, far more scalable and often produces better results compared to traditional SDP relaxation techniques."
+- title: "Learning for Larger Datasets with the Gaussian Process Latent Variable Model"
+  volume: 2
+  URL: http://proceedings.mlr.press/v2/lawrence07a.html
+  PDF: http://proceedings.pmlr.press/lawrence07a/lawrence07a.pdf
+  container-title: Proceedings of the Eleventh International Conference on Artificial Intelligence and Statistics
+  publisher: PMLR  
+  author: 
+  - family: Lawrence
+    given: Neil D.
+  editor: 
+  - family: Meila
+    given: Marina
+  - family: Shen
+    given: Xiaotong
+  address: San Juan, Puerto Rico
+  page: 243-250
+  id: lawrence07a
+  issued:
+    date-parts: 
+      - 2007
+      - 3
+      - 11
+  abstract: "In this paper we apply the latest techniques in sparse Gaussian process regression (GPR) to the Gaussian process latent variable model (GPLVM). We review three techniques and discuss how they may be implemented in the context of the GP-LVM. Each approach is then implemented on a well known benchmark data set and compared with earlier attempts to sparsify the model."
+- title: "Learning Nearest-Neighbor Quantizers from Labeled Data by Information Loss Minimization"
+  volume: 2
+  URL: http://proceedings.mlr.press/v2/lazebnik07a.html
+  PDF: http://proceedings.pmlr.press/lazebnik07a/lazebnik07a.pdf
+  container-title: Proceedings of the Eleventh International Conference on Artificial Intelligence and Statistics
+  publisher: PMLR  
+  author: 
+  - family: Lazebnik
+    given: Svetlana
+  - family: Raginsky
+    given: Maxim
+  editor: 
+  - family: Meila
+    given: Marina
+  - family: Shen
+    given: Xiaotong
+  address: San Juan, Puerto Rico
+  page: 251-258
+  id: lazebnik07a
+  issued:
+    date-parts: 
+      - 2007
+      - 3
+      - 11
+  abstract: "Markov Random Fields (MRFs) are used in a large array of computer vision and maching learning applications. Finding the Maximum Aposteriori (MAP) solution of an MRF is in general intractable, and one has to resort to approximate solutions, such as Belief Propagation, Graph Cuts, or more recently, approaches based on quadratic programming. We propose a novel type of approximation, Spectral relaxation to Quadratic Programming (SQP). We show our method offers tighter bounds than recently published work, while at the same time being computationally efficient. We compare our method to other algorithms on random MRFs in various settings."
+- title: "Treelets | A Tool for Dimensionality Reduction and Multi-Scale Analysis of Unstructured Data"
+  volume: 2
+  URL: http://proceedings.mlr.press/v2/lee07a.html
+  PDF: http://proceedings.pmlr.press/lee07a/lee07a.pdf
+  container-title: Proceedings of the Eleventh International Conference on Artificial Intelligence and Statistics
+  publisher: PMLR  
+  author: 
+  - family: Lee
+    given: Ann B.
+  - family: Nadler
+    given: Boaz
+  editor: 
+  - family: Meila
+    given: Marina
+  - family: Shen
+    given: Xiaotong
+  address: San Juan, Puerto Rico
+  page: 259-266
+  id: lee07a
+  issued:
+    date-parts: 
+      - 2007
+      - 3
+      - 11
+  abstract: "In many modern data mining applications, such as analysis of gene expression or worddocument data sets, the data is highdimensional with hundreds or even thousands of variables, unstructured with no specific order of the original variables, and noisy. Despite the high dimensionality, the data is typically redundant with underlying structures that can be represented by only a few features. In such settings and specifically when the number of variables is much larger than the sample size, standard global methods may not perform well for common learning tasks such as classification, regression and clustering. In this paper, we present treelets – a new tool for multi-resolution analysis that extends wavelets on smooth signals to general unstructured data sets. By construction, treelets provide an orthogonal basis that reflects the internal structure of the data. In addition, treelets can be useful for feature selection and dimensionality reduction prior to learning. We give a theoretical analysis of our algorithm for a linear mixture model, and present a variety of situations where treelets outperform classical principal component analysis, as well as variable selection schemes such as supervised (sparse) PCA."
+- title: "Efficient active learning with generalized linear models"
+  volume: 2
+  URL: http://proceedings.mlr.press/v2/lewi07a.html
+  PDF: http://proceedings.pmlr.press/lewi07a/lewi07a.pdf
+  container-title: Proceedings of the Eleventh International Conference on Artificial Intelligence and Statistics
+  publisher: PMLR  
+  author: 
+  - family: Lewi
+    given: Jeremy
+  - family: Butera
+    given: Robert
+  - family: Paninski
+    given: Liam
+  editor: 
+  - family: Meila
+    given: Marina
+  - family: Shen
+    given: Xiaotong
+  address: San Juan, Puerto Rico
+  page: 267-274
+  id: lewi07a
+  issued:
+    date-parts: 
+      - 2007
+      - 3
+      - 11
+  abstract: "Active learning can significantly reduce the amount of training data required to fit parametric statistical models for supervised learning tasks. Here we present an efficient algorithm for choosing the optimal (most informative) query when the output labels are related to the inputs by a generalized linear model (GLM). The algorithm is based on a Laplace approximation of the posterior distribution of the GLMÂs parameters. The algorithm requires only low-rank matrix manipulations and a single two-dimensional search to choose the optimal query and has complexity O(n^2) (with n the dimension of the feature space), making active learning with GLMs feasible even for high-dimensional feature spaces. In certain cases the twodimensional search may be reduced to a onedimensional search, further improving the algorithmÂs efficiency. Simulation results show that the model parameters can be estimated much more efficiently using the active learning technique than by using randomly chosen queries. We compute the asymptotic posterior covariance semi-analytically and demonstrate that the algorithm empirically achieves this asymptotic convergence rate, which is generally better than the convergence rate in the random-query setting. Finally, we generalize the approach to efficiently handle both output history effects (for applications to time-series models of autoregressive type) and slow, non-systematic drifts in the model parameters"
+- title: "A Bayesian Divergence Prior for Classiffier Adaptation"
+  volume: 2
+  URL: http://proceedings.mlr.press/v2/li07a.html
+  PDF: http://proceedings.pmlr.press/li07a/li07a.pdf
+  container-title: Proceedings of the Eleventh International Conference on Artificial Intelligence and Statistics
+  publisher: PMLR  
+  author: 
+  - family: Li
+    given: Xiao
+  - family: Bilmes
+    given: Jeff
+  editor: 
+  - family: Meila
+    given: Marina
+  - family: Shen
+    given: Xiaotong
+  address: San Juan, Puerto Rico
+  page: 275-282
+  id: li07a
+  issued:
+    date-parts: 
+      - 2007
+      - 3
+      - 11
+  abstract: "Adaptation of statistical classifiers is critical when a target (or testing) distribution is different from the distribution that governs training data. In such cases, a classifier optimized for the training distribution needs to be adapted for optimal use in the target distribution. This paper presents a Bayesian “divergence prior” for generic classifier adaptation. Instantiations of this prior lead to simple yet principled adaptation strategies for a variety of classifiers, which yield superior performance in practice. In addition, this paper derives several adaptation error bounds by applying the divergence prior in the PAC-Bayesian setting."
+- title: "Sparse Nonparametric Density Estimation in High Dimensions Using the Rodeo"
+  volume: 2
+  URL: http://proceedings.mlr.press/v2/liu07a.html
+  PDF: http://proceedings.pmlr.press/liu07a/liu07a.pdf
+  container-title: Proceedings of the Eleventh International Conference on Artificial Intelligence and Statistics
+  publisher: PMLR  
+  author: 
+  - family: Liu
+    given: Han
+  - family: Lafferty
+    given: John
+  - family: Wasserman
+    given: Larry
+  editor: 
+  - family: Meila
+    given: Marina
+  - family: Shen
+    given: Xiaotong
+  address: San Juan, Puerto Rico
+  page: 283-290
+  id: liu07a
+  issued:
+    date-parts: 
+      - 2007
+      - 3
+      - 11
+  abstract: "We consider the problem of estimating the joint density of a d-dimensional random vector X = (X_1 , X_2, ..., X_d ) when d is large. We assume that the density is a product of a parametric component and a nonparametric component which depends on an unknown subset of the variables. Using a modification of a recently developed nonparametric regression framework called rodeo (regularization of derivative expectation operator), we propose a method to greedily select bandwidths in a kernel density estimate. It is shown empirically that the density rodeo works well even for very high dimensional problems. When the unknown density function satisfies a suitably defined sparsity condition, and the parametric baseline density is smooth, the approach is shown to achieve near optimal minimax rates of convergence, and thus avoids the curse of dimensionality."
+- title: "Fisher Consistency of Multicategory Support Vector Machines"
+  volume: 2
+  URL: http://proceedings.mlr.press/v2/liu07b.html
+  PDF: http://proceedings.pmlr.press/liu07b/liu07b.pdf
+  container-title: Proceedings of the Eleventh International Conference on Artificial Intelligence and Statistics
+  publisher: PMLR  
+  author: 
+  - family: Liu
+    given: Yufeng
+  editor: 
+  - family: Meila
+    given: Marina
+  - family: Shen
+    given: Xiaotong
+  address: San Juan, Puerto Rico
+  page: 291-298
+  id: liu07b
+  issued:
+    date-parts: 
+      - 2007
+      - 3
+      - 11
+  abstract: "The Support Vector Machine (SVM) has become one of the most popular machine learning techniques in recent years. The success of the SVM is mostly due to its elegant margin concept and theory in binary classification. Generalization to the multicategory setting, however, is not trivial. There are a number of different multicategory extensions of the SVM in the literature. In this paper, we review several commonly used extensions and Fisher consistency of these extensions. For inconsistent extensions, we propose two approaches to make them Fisher consistent, one is to add bounded constraints and the other is to truncate unbounded hinge losses."
+- title: "Semi-supervised Clustering with Pairwise Constraints: A Discriminative Approach"
+  volume: 2
+  URL: http://proceedings.mlr.press/v2/lu07a.html
+  PDF: http://proceedings.pmlr.press/lu07a/lu07a.pdf
+  container-title: Proceedings of the Eleventh International Conference on Artificial Intelligence and Statistics
+  publisher: PMLR  
+  author: 
+  - family: Lu
+    given: Zhengdong
+  editor: 
+  - family: Meila
+    given: Marina
+  - family: Shen
+    given: Xiaotong
+  address: San Juan, Puerto Rico
+  page: 299-306
+  id: lu07a
+  issued:
+    date-parts: 
+      - 2007
+      - 3
+      - 11
+  abstract: "We consider the semi-supervised clustering problem where we know (with varying degree of certainty) that some sample pairs are (or are not) in the same class. Unlike previous efforts in adapting clustering algorithms to incorporate those pairwise relations, our work is based on a discriminative model. We generalize the standard Gaussian process classifier (GPC) to express our classification preference. To use the samples not involved in pairwise relations, we employ the graph kernels (covariance matrix) based on the entire data set. Experiments on a variety of data sets show that our algorithm significantly outperforms several state-of-the-art methods."
+- title: "Recall Systems: Effcient Learning and Use of Category Indices"
+  volume: 2
+  URL: http://proceedings.mlr.press/v2/madani07a.html
+  PDF: http://proceedings.pmlr.press/madani07a/madani07a.pdf
+  container-title: Proceedings of the Eleventh International Conference on Artificial Intelligence and Statistics
+  publisher: PMLR  
+  author: 
+  - family: Madani
+    given: Omid
+  - family: Greiner
+    given: Wiley
+  - family: Kempe
+    given: David
+  - family: Salavatipour
+    given: Mohammad R.
+  editor: 
+  - family: Meila
+    given: Marina
+  - family: Shen
+    given: Xiaotong
+  address: San Juan, Puerto Rico
+  page: 307-314
+  id: madani07a
+  issued:
+    date-parts: 
+      - 2007
+      - 3
+      - 11
+  abstract: "We introduce the framework of recall systems for efficient learning and retrieval of categories when the number of categories is large. A recallsystem here is a simple feature-based intermediate filtering step which reduces the potential categories for an instance to a small manageable set. The correct categories from this set can then be determined using traditional classifiers. We present a formalization of the index learning problem and establish NP-hardness and approximation hardness. We proceed to give an efficient heuristic for learning indices, and evaluate it on several large data sets. In our experiments, the index is learned within minutes, and reduces the number of categories by several orders of magnitude, without affecting the quality of classification overall."
+- title: "AClass: A simple, online, parallelizable algorithm for probabilistic classification"
+  volume: 2
+  URL: http://proceedings.mlr.press/v2/mansinghka07a.html
+  PDF: http://proceedings.pmlr.press/mansinghka07a/mansinghka07a.pdf
+  container-title: Proceedings of the Eleventh International Conference on Artificial Intelligence and Statistics
+  publisher: PMLR  
+  author: 
+  - family: Mansinghka
+    given: Vikash K.
+  - family: Roy
+    given: Daniel M.
+  - family: Rifkin
+    given: Ryan
+  - family: Tenenbaum
+    given: Josh
+  editor: 
+  - family: Meila
+    given: Marina
+  - family: Shen
+    given: Xiaotong
+  address: San Juan, Puerto Rico
+  page: 315-322
+  id: mansinghka07a
+  issued:
+    date-parts: 
+      - 2007
+      - 3
+      - 11
+  abstract: "We present AClass, a simple, online, parallelizable algorithm for supervised multiclass classification. AClass models each classconditional density as a Chinese restaurant process mixture, and performs approximate inference in this model using a sequential Monte Carlo scheme. AClass combines several strengths of previous approaches to classification that are not typically found in a single algorithm; it supports learning from missing data and yields sensibly regularized nonlinear decision boundaries while remaining computationally efficient. We compare AClass to several standard classification algorithms and show competitive performance."
+- title: "A Fast Bundle-based Anytime Algorithm for Poker and other Convex Games"
+  volume: 2
+  URL: http://proceedings.mlr.press/v2/mcmahan07a.html
+  PDF: http://proceedings.pmlr.press/mcmahan07a/mcmahan07a.pdf
+  container-title: Proceedings of the Eleventh International Conference on Artificial Intelligence and Statistics
+  publisher: PMLR  
+  author: 
+  - family: McMahan
+    given: H. Brendan
+  - family: Gordony
+    given: Geoffrey J.
+  editor: 
+  - family: Meila
+    given: Marina
+  - family: Shen
+    given: Xiaotong
+  address: San Juan, Puerto Rico
+  page: 323-330
+  id: mcmahan07a
+  issued:
+    date-parts: 
+      - 2007
+      - 3
+      - 11
+  abstract: "Convex games are a natural generalization of matrix (normal-form) games that can compactly model many strategic interactions with interesting structure. We present a new anytime algorithm for such games that leverages fast best-response oracles for both players to build a model of the overall game. This model is used to identify search directions; the algorithm then does an exact minimization in this direction via a specialized line search. We test the algorithm on a simplified version of Texas Hold’em poker represented as an extensive-form game. Our algorithm approximated the exact value of this game within 0.20 (the maximum pot size is 310.00) in a little over 2 hours, using less than 1.5GB of memory; finding a solution with comparable bounds using a state-of-theart interior-point linear programming algorithm took over 4 days and 25GB of memory."
+- title: "Loop Corrected Belief Propagation"
+  volume: 2
+  URL: http://proceedings.mlr.press/v2/mooij07a.html
+  PDF: http://proceedings.pmlr.press/mooij07a/mooij07a.pdf
+  container-title: Proceedings of the Eleventh International Conference on Artificial Intelligence and Statistics
+  publisher: PMLR  
+  author: 
+  - family: Mooij
+    given: Joris
+  - family: Wemmenhove
+    given: Bastian
+  - family: Kappen
+    given: Bert
+  - family: Rizzo
+    given: Tommaso
+  editor: 
+  - family: Meila
+    given: Marina
+  - family: Shen
+    given: Xiaotong
+  address: San Juan, Puerto Rico
+  page: 331-338
+  id: mooij07a
+  issued:
+    date-parts: 
+      - 2007
+      - 3
+      - 11
+  abstract: "We propose a method for improving Belief Propagation (BP) that takes into account the influence of loops in the graphical model. The method is a variation on and generalization of the method recently introduced by Montanari and Rizzo [2005]. It consists of two steps: (i) standard BP is used to calculate cavity distributions for each variable (i.e. probability distributions on the Markov blanket of a variable for a modified graphical model, in which the factors involving that variable have been removed); (ii) all cavity distributions are combined by a messagepassing algorithm to obtain consistent single node marginals. The method is exact if the graphical model contains a single loop. The complexity of the method is exponential in the size of the Markov blankets. The results are very accurate in general: the error is often several orders of magnitude smaller than that of standard BP, as illustrated by numerical experiments."
+- title: "Inductive Transfer for Bayesian Network Structure Learning"
+  volume: 2
+  URL: http://proceedings.mlr.press/v2/niculescu-mizil07a.html
+  PDF: http://proceedings.pmlr.press/niculescu-mizil07a/niculescu-mizil07a.pdf
+  container-title: Proceedings of the Eleventh International Conference on Artificial Intelligence and Statistics
+  publisher: PMLR  
+  author: 
+  - family: Niculescu-Mizil
+    given: Alexandru
+  - family: Caruana
+    given: Rich
+  editor: 
+  - family: Meila
+    given: Marina
+  - family: Shen
+    given: Xiaotong
+  address: San Juan, Puerto Rico
+  page: 339-346
+  id: niculescu-mizil07a
+  issued:
+    date-parts: 
+      - 2007
+      - 3
+      - 11
+  abstract: "We consider the problem of learning Bayes Net structures for related tasks. We present an algorithm for learning Bayes Net structures that takes advantage of the similarity between tasks by biasing learning toward similar structures for each task. Heuristic search is used to find a high scoring set of structures (one for each task), where the score for a set of structures is computed in a principled way. Experiments on problems generated from the ALARM and INSURANCE networks show that learning the structures for related tasks using the proposed method yields better results than learning the structures independently."
+- title: "Maximum Entropy Correlated Equilibria"
+  volume: 2
+  URL: http://proceedings.mlr.press/v2/ortiz07a.html
+  PDF: http://proceedings.pmlr.press/ortiz07a/ortiz07a.pdf
+  container-title: Proceedings of the Eleventh International Conference on Artificial Intelligence and Statistics
+  publisher: PMLR  
+  author: 
+  - family: Ortiz
+    given: Luis E.
+  - family: Schapire
+    given: Robert E.
+  - family: Kakade
+    given: Sham M.
+  editor: 
+  - family: Meila
+    given: Marina
+  - family: Shen
+    given: Xiaotong
+  address: San Juan, Puerto Rico
+  page: 347-354
+  id: ortiz07a
+  issued:
+    date-parts: 
+      - 2007
+      - 3
+      - 11
+  abstract: "We study maximum entropy correlated equilibria (Maxent CE) in multi-player games. After motivating and deriving some interesting important properties of Maxent CE, we provide two gradient-based algorithms that are guaranteed to converge to it. The proposed algorithms have strong connections to algorithms for statistical estimation (e.g., iterative scaling), and permit a distributed learning-dynamics interpretation. We also briefly discuss possible connections of this work, and more generally of the Maximum Entropy Principle in statistics, to the work on learning in games and the problem of equilibrium selection."
+- title: "Approximate Counting of Graphical Models Via MCMC"
+  volume: 2
+  URL: http://proceedings.mlr.press/v2/pena07a.html
+  PDF: http://proceedings.pmlr.press/pena07a/pena07a.pdf
+  container-title: Proceedings of the Eleventh International Conference on Artificial Intelligence and Statistics
+  publisher: PMLR  
+  author: 
+  - family: PeÃ±a
+    given: Jose M.
+  editor: 
+  - family: Meila
+    given: Marina
+  - family: Shen
+    given: Xiaotong
+  address: San Juan, Puerto Rico
+  page: 355-362
+  id: pena07a
+  issued:
+    date-parts: 
+      - 2007
+      - 3
+      - 11
+  abstract: "We apply MCMC to approximately calculate (i) the ratio of directed acyclic graph (DAG) models to DAGs for up to 20 nodes, and (ii) the fraction of chain graph (CG) models that are neither undirected graph (UG) models nor DAG models for up to 13 nodes. Our results suggest that, for the numbers of nodes considered, (i) the ratio of DAG models to DAGs is not very low, (ii) the ratio of DAG models to UG models is very high, (iii) the fraction of CG models that are neither UG models nor DAG models is rather high, and (iv) the ratio of CG models to CGs is rather low. Therefore, our results suggest that (i) when learning DAG/CG models, searching the space of DAG/CG models instead of the space of DAGs/CGs can result in a moderate/considerable gain in efficiency, and (ii) learning a CG model instead of an UG model or DAG model can result in a substantially better fit of the learning data."
+- title: "Margin based Transductive Graph Cuts using Linear Programming"
+  volume: 2
+  URL: http://proceedings.mlr.press/v2/pelckmans07a.html
+  PDF: http://proceedings.pmlr.press/pelckmans07a/pelckmans07a.pdf
+  container-title: Proceedings of the Eleventh International Conference on Artificial Intelligence and Statistics
+  publisher: PMLR  
+  author: 
+  - family: Pelckmans
+    given: K.
+  - family: Shawe-Taylor
+    given: J.
+  - family: Suykens
+    given: J.A.K.
+  - family: Moor
+    given: B. De
+  editor: 
+  - family: Meila
+    given: Marina
+  - family: Shen
+    given: Xiaotong
+  address: San Juan, Puerto Rico
+  page: 363-370
+  id: pelckmans07a
+  issued:
+    date-parts: 
+      - 2007
+      - 3
+      - 11
+  abstract: "This paper studies the problem of inferring a partition (or a graph cut) of an undirected deterministic graph where the labels of some nodes are observed - thereby bridging a gap between graph theory and probabilistic inference techniques. Given a weighted graph, we focus on the rules of weighted neighbors to predict the label of a particular node. A maximum margin and maximal average margin based argument is used to prove a generalization bound, and is subsequently related to the classical MINCUT approach. From a practical perspective a simple and intuitive, but efficient convex formulation is constructed. This scheme can readily be implemented as a linear program which scales well till a few thousands of (labeled or unlabeled) data-points. The extremal case is studied where one observes only a single label, and this setting is related to the task of unsupervised clustering."
+- title: "A Unified Energy-Based Framework for Unsupervised Learning"
+  volume: 2
+  URL: http://proceedings.mlr.press/v2/ranzato07a.html
+  PDF: http://proceedings.pmlr.press/ranzato07a/ranzato07a.pdf
+  container-title: Proceedings of the Eleventh International Conference on Artificial Intelligence and Statistics
+  publisher: PMLR  
+  author: 
+  - family: Ranzato
+    given: Marc’Aurelio
+  - family: Boureau
+    given: Y-Lan
+  - family: Chopra
+    given: Sumit
+  - family: LeCun
+    given: Yann
+  editor: 
+  - family: Meila
+    given: Marina
+  - family: Shen
+    given: Xiaotong
+  address: San Juan, Puerto Rico
+  page: 371-379
+  id: ranzato07a
+  issued:
+    date-parts: 
+      - 2007
+      - 3
+      - 11
+  abstract: "We introduce a view of unsupervised learning that integrates probabilistic and nonprobabilistic methods for clustering, dimensionality reduction, and feature extraction in a unified framework. In this framework, an energy function associates low energies to input points that are similar to training samples, and high energies to unobserved points. Learning consists in minimizing the energies of training samples while ensuring that the energies of unobserved ones are higher. Some traditional methods construct the architecture so that only a small number of points can have low energy, while other methods explicitly “pull up” on the energies of unobserved points. In probabilistic methods the energy of unobserved points is pulled by minimizing the log partition function, an expensive, and sometimes intractable process. We explore different and more efficient methods using an energy-based approach. In particular, we show that a simple solution is to restrict the amount of information contained in codes that represent the data. We demonstrate such a method by training it on natural image patches and by applying to image denoising."
+- title: "(Approximate) Subgradient Methods for Structured Prediction"
+  volume: 2
+  URL: http://proceedings.mlr.press/v2/ratliff07a.html
+  PDF: http://proceedings.pmlr.press/ratliff07a/ratliff07a.pdf
+  container-title: Proceedings of the Eleventh International Conference on Artificial Intelligence and Statistics
+  publisher: PMLR  
+  author: 
+  - family: Ratliff
+    given: Nathan D.
+  - family: Bagnell
+    given: J. Andrew
+  - family: Zinkevich
+    given: Martin A.
+  editor: 
+  - family: Meila
+    given: Marina
+  - family: Shen
+    given: Xiaotong
+  address: San Juan, Puerto Rico
+  page: 380-387
+  id: ratliff07a
+  issued:
+    date-parts: 
+      - 2007
+      - 3
+      - 11
+  abstract: "Promising approaches to structured learning problems have recently been developed in the maximum margin framework. Unfortunately, algorithms that are computationally and memory efficient enough to solve large scale problems have lagged behind. We propose using simple subgradient-based techniques for optimizing a regularized risk formulation of these problems in both online and batch settings, and analyze the theoretical convergence, generalization, and robustness properties of the resulting techniques. These algorithms are are simple, memory efficient, fast to converge, and have small regret in the online setting. We also investigate a novel convex regression formulation of structured learning. Finally, we demonstrate the benefits of the subgradient approach on three structured prediction problems."
+- title: "A fast algorithm for learning large scale preference relations"
+  volume: 2
+  URL: http://proceedings.mlr.press/v2/raykar07a.html
+  PDF: http://proceedings.pmlr.press/raykar07a/raykar07a.pdf
+  container-title: Proceedings of the Eleventh International Conference on Artificial Intelligence and Statistics
+  publisher: PMLR  
+  author: 
+  - family: Raykar
+    given: Vikas C.
+  - family: Duraiswami
+    given: Ramani
+  - family: Krishnapuram
+    given: Balaji
+  editor: 
+  - family: Meila
+    given: Marina
+  - family: Shen
+    given: Xiaotong
+  address: San Juan, Puerto Rico
+  page: 388-395
+  id: raykar07a
+  issued:
+    date-parts: 
+      - 2007
+      - 3
+      - 11
+  abstract: "We consider the problem of learning the ranking function that maximizes a generalization of the Wilcoxon-Mann-Whitney statistic on training data. Relying on an -exact approximation for the error-function, we reduce the computational complexity of each iteration of a conjugate gradient algorithm for learning ranking functions from O(m^2), to O(m), where m is the size of the training data. Experiments on public benchmarks for ordinal regression and collaborative filtering show that the proposed algorithm is as accurate as the best available methods in terms of ranking accuracy, when trained on the same data, and is several orders of magnitude faster."
+- title: "The Rademacher Complexity of Co-Regularized Kernel Classes"
+  volume: 2
+  URL: http://proceedings.mlr.press/v2/rosenberg07a.html
+  PDF: http://proceedings.pmlr.press/rosenberg07a/rosenberg07a.pdf
+  container-title: Proceedings of the Eleventh International Conference on Artificial Intelligence and Statistics
+  publisher: PMLR  
+  author: 
+  - family: Rosenberg
+    given: David S.
+  - family: Bartlett
+    given: Peter L.
+  editor: 
+  - family: Meila
+    given: Marina
+  - family: Shen
+    given: Xiaotong
+  address: San Juan, Puerto Rico
+  page: 396-403
+  id: rosenberg07a
+  issued:
+    date-parts: 
+      - 2007
+      - 3
+      - 11
+  abstract: "In the multi-view approach to semisupervised learning, we choose one predictor from each of multiple hypothesis classes, and we “co-regularize” our choices by penalizing disagreement among the predictors on the unlabeled data. We examine the co-regularization method used in the coregularized least squares (CoRLS) algorithm [12], in which the views are reproducing kernel Hilbert spaces (RKHS’s), and the disagreement penalty is the average squared diffrence in predictions. The final predictor is the pointwise average of the predictors from each view. We call the set of predictors that can result from this procedure the co-regularized hypothesis class. Our main result is a tight bound on the Rademacher complexity of the co-regularized hypothesis class in terms of the kernel matrices of each RKHS. We find that the co-regularization reduces the Rademacher complexity by an amount that depends on the distance between the two views, as measured by a data dependent metric. We then use standard techniques to bound the gap between training error and test error for the CoRLS algorithm. Experimentally, we find that the amount of reduction in complexity introduced by co-regularization correlates with the amount of improvement that co-regularization gives in the CoRLS algorithm."
+- title: "Continuous Neural Networks"
+  volume: 2
+  URL: http://proceedings.mlr.press/v2/leroux07a.html
+  PDF: http://proceedings.pmlr.press/leroux07a/leroux07a.pdf
+  container-title: Proceedings of the Eleventh International Conference on Artificial Intelligence and Statistics
+  publisher: PMLR  
+  author: 
+  - family: Roux
+    given: Nicolas Le
+  - family: Bengio
+    given: Yoshua
+  editor: 
+  - family: Meila
+    given: Marina
+  - family: Shen
+    given: Xiaotong
+  address: San Juan, Puerto Rico
+  page: 404-411
+  id: leroux07a
+  issued:
+    date-parts: 
+      - 2007
+      - 3
+      - 11
+  abstract: "This article extends neural networks to the case of an uncountable number of hidden units, in several ways. In the first approach proposed, a finite parametrization is possible, allowing gradient-based learning. While having the same number of parameters as an ordinary neural network, its internal structure suggests that it can represent some smooth functions much more compactly. Under mild assumptions, we also find better error bounds than with ordinary neural networks. Furthermore, this parametrization may help reducing the problem of saturation of the neurons. In a second approach, the input-to-hidden weights are fully nonparametric, yielding a kernel machine for which we demonstrate a simple kernel formula. Interestingly, the resulting kernel machine can be made hyperparameter-free and still generalizes in spite of an absence of explicit regularization."
+- title: "Learning a Nonlinear Embedding by Preserving Class Neighbourhood Structure"
+  volume: 2
+  URL: http://proceedings.mlr.press/v2/salakhutdinov07a.html
+  PDF: http://proceedings.pmlr.press/salakhutdinov07a/salakhutdinov07a.pdf
+  container-title: Proceedings of the Eleventh International Conference on Artificial Intelligence and Statistics
+  publisher: PMLR  
+  author: 
+  - family: Salakhutdinov
+    given: Ruslan
+  - family: Hinton
+    given: Geoff
+  editor: 
+  - family: Meila
+    given: Marina
+  - family: Shen
+    given: Xiaotong
+  address: San Juan, Puerto Rico
+  page: 412-419
+  id: salakhutdinov07a
+  issued:
+    date-parts: 
+      - 2007
+      - 3
+      - 11
+  abstract: "We show how to pretrain and fine-tune a multilayer neural network to learn a nonlinear transformation from the input space to a lowdimensional feature space in which K-nearest neighbour classification performs well. We also show how the non-linear transformation can be improved using unlabeled data. Our method achieves a much lower error rate than Support Vector Machines or standard backpropagation on a widely used version of the MNIST handwritten digit recognition task. If some of the dimensions of the low-dimensional feature space are not used for nearest neighbor classification, our method uses these dimensions to explicitly represent transformations of the digits that do not affect their identity."
+- title: "A Latent Space Approach to Dynamic Embedding of Co-occurrence Data"
+  volume: 2
+  URL: http://proceedings.mlr.press/v2/sarkar07a.html
+  PDF: http://proceedings.pmlr.press/sarkar07a/sarkar07a.pdf
+  container-title: Proceedings of the Eleventh International Conference on Artificial Intelligence and Statistics
+  publisher: PMLR  
+  author: 
+  - family: Sarkar
+    given: Purnamrita
+  - family: Siddiqi
+    given: Sajid M.
+  - family: Gordon
+    given: Geogrey J.
+  editor: 
+  - family: Meila
+    given: Marina
+  - family: Shen
+    given: Xiaotong
+  address: San Juan, Puerto Rico
+  page: 420-427
+  id: sarkar07a
+  issued:
+    date-parts: 
+      - 2007
+      - 3
+      - 11
+  abstract: "We consider dynamic co-occurrence data, such as author-word links in papers published in successive years of the same conference. For static co-occurrence data, researchers often seek an embedding of the entities (authors and words) into a lowdimensional Euclidean space. We generalize a recent static co-occurrence model, the CODE model of Globerson et al. (2004), to the dynamic setting: we seek coordinates for each entity at each time step. The coordinates can change with time to explain new observations, but since large changes are improbable, we can exploit data at previous and subsequent steps to find a better explanation for current observations. To make inference tractable, we show how to approximate our observation model with a Gaussian distribution, allowing the use of a Kalman filter for tractable inference. The result is the first algorithm for dynamic embedding of co-occurrence data which provides distributional information for its coordinate estimates. We demonstrate our model both on synthetic data and on author-word data from the NIPS corpus, showing that it produces intuitively reasonable embeddings. We also provide evidence for the usefulness of our model by its performance on an author-prediction task."
+- title: "Memory-Effcient Orthogonal Least Squares Kernel Density Estimation using Enhanced Empirical Cumulative Distribution Functions"
+  volume: 2
+  URL: http://proceedings.mlr.press/v2/schaffoner07a.html
+  PDF: http://proceedings.pmlr.press/schaffoner07a/schaffoner07a.pdf
+  container-title: Proceedings of the Eleventh International Conference on Artificial Intelligence and Statistics
+  publisher: PMLR  
+  author: 
+  - family: Schaffoner
+    given: Martin
+  - family: Andelic
+    given: Edin
+  - family: Katz
+    given: Marcel
+  - family: Krüger
+    given: Sven E.
+  - family: Wendemuth
+    given: Andreas
+  editor: 
+  - family: Meila
+    given: Marina
+  - family: Shen
+    given: Xiaotong
+  address: San Juan, Puerto Rico
+  page: 428-435
+  id: schaffoner07a
+  issued:
+    date-parts: 
+      - 2007
+      - 3
+      - 11
+  abstract: "A novel training algorithm for sparse kernel density estimates by regression of the empirical cumulative density function (ECDF) is presented. It is shown how an overdetermined linear least-squares problem may be solved by a greedy forward selection procedure using updates of the orthogonal decomposition in an order-recursive manner. We also present a method for improving the accuracy of the estimated models which uses output-sensitive computation of the ECDF. Experiments show the superior performance of our proposed method compared to stateof-the-art density estimation methods such as Parzen windows, Gaussian Mixture Models, and ε-Support Vector Density models [1]."
+- title: "A Stochastic Quasi-Newton Method for Online Convex Optimization"
+  volume: 2
+  URL: http://proceedings.mlr.press/v2/schraudolph07a.html
+  PDF: http://proceedings.pmlr.press/schraudolph07a/schraudolph07a.pdf
+  container-title: Proceedings of the Eleventh International Conference on Artificial Intelligence and Statistics
+  publisher: PMLR  
+  author: 
+  - family: Schraudolph
+    given: Nicol N.
+  - family: Yu
+    given: Jin
+  - family: Günter
+    given: Simon
+  editor: 
+  - family: Meila
+    given: Marina
+  - family: Shen
+    given: Xiaotong
+  address: San Juan, Puerto Rico
+  page: 436-443
+  id: schraudolph07a
+  issued:
+    date-parts: 
+      - 2007
+      - 3
+      - 11
+  abstract: "We develop stochastic variants of the well-known BFGS quasi-Newton optimization method, in both full and memory-limited (LBFGS) forms, for online optimization of convex functions. The resulting algorithm performs comparably to a well-tuned natural gradient descent but is scalable to very high-dimensional problems. On standard benchmarks in natural language processing, it asymptotically outperforms previous stochastic gradient methods for parameter estimation in conditional random fields. We are working on analyzing the convergence of online (L)BFGS, and extending it to nonconvex optimization problems."
+- title: "Bayesian Inference and Optimal Design in the Sparse Linear Model"
+  volume: 2
+  URL: http://proceedings.mlr.press/v2/seeger07a.html
+  PDF: http://proceedings.pmlr.press/seeger07a/seeger07a.pdf
+  container-title: Proceedings of the Eleventh International Conference on Artificial Intelligence and Statistics
+  publisher: PMLR  
+  author: 
+  - family: Seeger
+    given: Matthias
+  - family: Steinke
+    given: Florian
+  - family: Tsuda
+    given: Koji
+  editor: 
+  - family: Meila
+    given: Marina
+  - family: Shen
+    given: Xiaotong
+  address: San Juan, Puerto Rico
+  page: 444-451
+  id: seeger07a
+  issued:
+    date-parts: 
+      - 2007
+      - 3
+      - 11
+  abstract: "The sparse linear model has seen many successful applications in Statistics, Machine Learning, and Computational Biology, such as identification of gene regulatory networks from micro-array expression data. Prior work has either approximated Bayesian inference by expensive Markov chain Monte Carlo, or replaced it by point estimation. We show how to obtain a good approximation to Bayesian analysis efficiently, using the Expectation Propagation method. We also address the problems of optimal design and hyperparameter estimation. We demonstrate our framework on a gene network identification task."
+- title: "A Unified Algorithmic Approach for Efficient Online Label Ranking"
+  volume: 2
+  URL: http://proceedings.mlr.press/v2/shalev-shwartz07a.html
+  PDF: http://proceedings.pmlr.press/shalev-shwartz07a/shalev-shwartz07a.pdf
+  container-title: Proceedings of the Eleventh International Conference on Artificial Intelligence and Statistics
+  publisher: PMLR  
+  author: 
+  - family: Shalev-Shwartz
+    given: Shai
+  - family: Singer
+    given: Yoram
+  editor: 
+  - family: Meila
+    given: Marina
+  - family: Shen
+    given: Xiaotong
+  address: San Juan, Puerto Rico
+  page: 452-459
+  id: shalev-shwartz07a
+  issued:
+    date-parts: 
+      - 2007
+      - 3
+      - 11
+  abstract: "Label ranking is the task of ordering labels with respect to their relevance to an input instance. We describe a unified approach for the online label ranking task. We do so by casting the online learning problem as a game against a competitor who receives all the examples in advance and sets its label ranker to be the optimal solution of a constrained optimization problem. This optimization problem consists of two terms: the empirical label-ranking loss of the competitor and a complexity measure of the competitor’s ranking function. We then describe and analyze a framework for online label ranking that incrementally ascends the dual problem corresponding to the competitor’s optimization problem. The generality of our framework enables us to derive new online update schemes. In particular, we use the relative entropy as a complexity measure to derive efficient multiplicative algorithms for the label ranking task. Depending on the specific form of the instances, the multiplicative updates either have a closed form or can be calculated very efficiently by tailoring an interior point procedure to the label ranking task. We demonstrate the potential of our approach in a few experiments with email categorization tasks."
+- title: "Minimum Volume Embedding"
+  volume: 2
+  URL: http://proceedings.mlr.press/v2/shaw07a.html
+  PDF: http://proceedings.pmlr.press/shaw07a/shaw07a.pdf
+  container-title: Proceedings of the Eleventh International Conference on Artificial Intelligence and Statistics
+  publisher: PMLR  
+  author: 
+  - family: Shaw
+    given: Blake
+  - family: Jebara
+    given: Tony
+  editor: 
+  - family: Meila
+    given: Marina
+  - family: Shen
+    given: Xiaotong
+  address: San Juan, Puerto Rico
+  page: 460-467
+  id: shaw07a
+  issued:
+    date-parts: 
+      - 2007
+      - 3
+      - 11
+  abstract: "Minimum Volume Embedding (MVE) is an algorithm for non-linear dimensionality reduction that uses semidefinite programming (SDP) and matrix factorization to find a low-dimensional embedding that preserves local distances between points while representing the dataset in many fewer dimensions. MVE follows an approach similar to algorithms such as Semidefinite Embedding (SDE), in that it learns a kernel matrix using an SDP before applying Kernel Principal Component Analysis (KPCA). However, the objective function for MVE directly optimizes the eigenspectrum of the data to preserve as much of its energy as possible within the few dimensions available to the embedding. Simultaneously, remaining eigenspectrum energy is minimized in directions orthogonal to the embedding thereby keeping data in a so-called minimum volume manifold. We show how MVE improves upon SDE in terms of the volume of the preserved embedding and the resulting eigenspectrum, producing better visualizations for a variety of synthetic and real-world datasets, including simple toy examples, face images, handwritten digits, phylogenetic trees, and social networks."
+- title: "A Framework for Probability Density Estimation"
+  volume: 2
+  URL: http://proceedings.mlr.press/v2/shawe-taylor07a.html
+  PDF: http://proceedings.pmlr.press/shawe-taylor07a/shawe-taylor07a.pdf
+  container-title: Proceedings of the Eleventh International Conference on Artificial Intelligence and Statistics
+  publisher: PMLR  
+  author: 
+  - family: Shawe-Taylor
+    given: John
+  - family: Dolia
+    given: Alex
+  editor: 
+  - family: Meila
+    given: Marina
+  - family: Shen
+    given: Xiaotong
+  address: San Juan, Puerto Rico
+  page: 468-475
+  id: shawe-taylor07a
+  issued:
+    date-parts: 
+      - 2007
+      - 3
+      - 11
+  abstract: "The paper introduces a new framework for learning probability density functions. A theoretical analysis suggests that we can tailor a distribution for a class of tasks by training it to fit a small subsample. Experimental evidence is given to support the theoretical analysis."
+- title: "Fast Kernel ICA using an Approximate Newton Method"
+  volume: 2
+  URL: http://proceedings.mlr.press/v2/shen07a.html
+  PDF: http://proceedings.pmlr.press/shen07a/shen07a.pdf
+  container-title: Proceedings of the Eleventh International Conference on Artificial Intelligence and Statistics
+  publisher: PMLR  
+  author: 
+  - family: Shen
+    given: Hao
+  - family: Jegelka
+    given: Stefanie
+  - family: Gretton
+    given: Arthur
+  editor: 
+  - family: Meila
+    given: Marina
+  - family: Shen
+    given: Xiaotong
+  address: San Juan, Puerto Rico
+  page: 476-483
+  id: shen07a
+  issued:
+    date-parts: 
+      - 2007
+      - 3
+      - 11
+  abstract: "Recent approaches to independent component analysis (ICA) have used kernel independence measures to obtain very good performance, particularly where classical methods experience difficulty (for instance, sources with near-zero kurtosis). We present fast kernel ICA (FastKICA), a novel optimisation technique for one such kernel independence measure, the Hilbert-Schmidt independence criterion (HSIC). Our search procedure uses an approximate Newton method on the special orthogonal group, where we estimate the Hessian locally about independence. We employ incomplete Cholesky decomposition to efficiently compute the gradient and approximate Hessian. FastKICA results in more accurate solutions at a given cost compared with gradient descent, and is relatively insensitive to local minima when initialised far from independence. These properties allow kernel approaches to be extended to problems with larger numbers of sources and observations. Our method is competitive with other modern and classical ICA approaches in both speed and accuracy."
+- title: "Ellipsoidal Machines"
+  volume: 2
+  URL: http://proceedings.mlr.press/v2/shivaswamy07a.html
+  PDF: http://proceedings.pmlr.press/shivaswamy07a/shivaswamy07a.pdf
+  container-title: Proceedings of the Eleventh International Conference on Artificial Intelligence and Statistics
+  publisher: PMLR  
+  author: 
+  - family: Shivaswamy
+    given: Pannagadatta K.
+  - family: Jebara
+    given: Tony
+  editor: 
+  - family: Meila
+    given: Marina
+  - family: Shen
+    given: Xiaotong
+  address: San Juan, Puerto Rico
+  page: 484-491
+  id: shivaswamy07a
+  issued:
+    date-parts: 
+      - 2007
+      - 3
+      - 11
+  abstract: "A novel technique is proposed for improving the standard Vapnik-Chervonenkis (VC) dimension estimate for the Support Vector Machine (SVM) framework. The improved VC estimates are based on geometric arguments. By considering bounding ellipsoids instead of the usual bounding hyperspheres and assuming gap-tolerant classifiers, a linear classifier with a given margin is shown to shatter fewer points than previously estimated. This improved VC estimation method directly motivates a different estimator for the parameters of a linear classifier. Surprisingly, only VC-based arguments are needed to justify this modification to the SVM. The resulting technique is implemented using Semidefinite Programming (SDP) and is solvable in polynomial time. The new linear classifier also ensures certain invariances to affine transformations on the data which a standard SVM does not provide. We demonstrate that the technique can be kernelized via extensions to Hilbert spaces. Promising experimental results are shown on several standardized datasets."
+- title: "Fast State Discovery for HMM Model Selection and Learning"
+  volume: 2
+  URL: http://proceedings.mlr.press/v2/siddiqi07a.html
+  PDF: http://proceedings.pmlr.press/siddiqi07a/siddiqi07a.pdf
+  container-title: Proceedings of the Eleventh International Conference on Artificial Intelligence and Statistics
+  publisher: PMLR  
+  author: 
+  - family: Siddiqi
+    given: Sajid M.
+  - family: Gordon
+    given: Geogrey J.
+  - family: Moore
+    given: Andrew W.
+  editor: 
+  - family: Meila
+    given: Marina
+  - family: Shen
+    given: Xiaotong
+  address: San Juan, Puerto Rico
+  page: 492-499
+  id: siddiqi07a
+  issued:
+    date-parts: 
+      - 2007
+      - 3
+      - 11
+  abstract: "Choosing the number of hidden states and their topology (model selection) and estimating model parameters (learning) are important problems for Hidden Markov Models. This paper presents a new state-splitting algorithm that addresses both these problems. The algorithm models more information about the dynamic context of a state during a split, enabling it to discover underlying states more effectively. Compared to previous top-down methods, the algorithm also touches a smaller fraction of the data per split, leading to faster model search and selection. Because of its efficiency and ability to avoid local minima, the state-splitting approach is a good way to learn HMMs even if the desired number of states is known beforehand. We compare our approach to previous work on synthetic data as well as several real-world data sets from the literature, revealing significant improvements in efficiency and test-set likelihoods. We also compare to previous algorithms on a sign-language recognition task, with positive results."
+- title: "Analogical Reasoning with Relational Bayesian Sets"
+  volume: 2
+  URL: http://proceedings.mlr.press/v2/silva07a.html
+  PDF: http://proceedings.pmlr.press/silva07a/silva07a.pdf
+  container-title: Proceedings of the Eleventh International Conference on Artificial Intelligence and Statistics
+  publisher: PMLR  
+  author: 
+  - family: Silva
+    given: Ricardo
+  - family: Heller
+    given: Katherine A.
+  - family: Ghahramani
+    given: Zoubin
+  editor: 
+  - family: Meila
+    given: Marina
+  - family: Shen
+    given: Xiaotong
+  address: San Juan, Puerto Rico
+  page: 500-507
+  id: silva07a
+  issued:
+    date-parts: 
+      - 2007
+      - 3
+      - 11
+  abstract: "Analogical reasoning depends fundamentally on the ability to learn and generalize about relations between objects. There are many ways in which objects can be related, making automated analogical reasoning very challenging. Here we develop an approach which, given a set of pairs of related objects S = {A^1:B^1, A^2:B^2, ..., A^N:B^N }, measures how well other pairs A:B fit in with the set S. This addresses the question: is the relation between objects A and B analogous to those relations found in S? We recast this classical problem as a problem of Bayesian analysis of relational data. This problem is nontrivial because direct similarity between objects is not a good way of measuring analogies. For instance, the analogy between an electron around the nucleus of an atom and a planet around the Sun is hardly justified by isolated, non-relational, comparisons of an electron to a planet, and a nucleus to the Sun. We develop a generative model for predicting the existence of relationships and extend the framework of Ghahramani and Heller (2005) to provide a Bayesian measure for how analogous a relation is to other relations. This sheds new light on an old problem, which we motivate and illustrate through practical applications in exploratory data analysis."
+- title: "Dynamic Factorization Tests: Applications to Multi-modal Data Association"
+  volume: 2
+  URL: http://proceedings.mlr.press/v2/siracusa07a.html
+  PDF: http://proceedings.pmlr.press/siracusa07a/siracusa07a.pdf
+  container-title: Proceedings of the Eleventh International Conference on Artificial Intelligence and Statistics
+  publisher: PMLR  
+  author: 
+  - family: Siracusa
+    given: Michael R.
+  - family: III
+    given: John W. Fisher
+  editor: 
+  - family: Meila
+    given: Marina
+  - family: Shen
+    given: Xiaotong
+  address: San Juan, Puerto Rico
+  page: 508-515
+  id: siracusa07a
+  issued:
+    date-parts: 
+      - 2007
+      - 3
+      - 11
+  abstract: "The goal of a dynamic dependency test is to correctly label the interaction of multiple observed data streams and to describe how this interaction evolves over time. To this end, we propose the use of a hidden factorization Markov model (HFactMM) in which a hidden state indexes into a finite set of possible dependence structures on observations. We show that a dynamic dependency test using an HFactMM takes advantage of both structural and parametric changes associated with changes in interaction. This is contrasted both theoretically and empirically with standard sliding window based dependence analysis. Using this model we obtain state-ofthe-art performance on an audio-visual association task without the benefit of labeled training data."
+- title: "Generalized Darting Monte Carlo"
+  volume: 2
+  URL: http://proceedings.mlr.press/v2/sminchisescu07a.html
+  PDF: http://proceedings.pmlr.press/sminchisescu07a/sminchisescu07a.pdf
+  container-title: Proceedings of the Eleventh International Conference on Artificial Intelligence and Statistics
+  publisher: PMLR  
+  author: 
+  - family: Sminchisescu
+    given: Cristian
+  - family: Welling
+    given: Max
+  editor: 
+  - family: Meila
+    given: Marina
+  - family: Shen
+    given: Xiaotong
+  address: San Juan, Puerto Rico
+  page: 516-523
+  id: sminchisescu07a
+  issued:
+    date-parts: 
+      - 2007
+      - 3
+      - 11
+  abstract: "One of the main shortcomings of Markov chain Monte Carlo samplers is their inability to mix between modes of the target distribution. In this paper we show that advance knowledge of the location of these modes can be incorporated into the MCMC sampler by introducing mode-hopping moves that satisfy detailed balance. The proposed sampling algorithm explores local mode structure through local MCMC moves (e.g. diffusion or Hybrid Monte Carlo) but in addition also represents the relative strengths of the different modes correctly using a set of global moves. This ‘mode-hopping’ MCMC sampler can be viewed as a generalization of the darting method [1]. We illustrate the method on a ‘real world’ vision application of inferring 3-D human body pose from single 2-D images."
+- title: "Local and global sparse Gaussian process approximations"
+  volume: 2
+  URL: http://proceedings.mlr.press/v2/snelson07a.html
+  PDF: http://proceedings.pmlr.press/snelson07a/snelson07a.pdf
+  container-title: Proceedings of the Eleventh International Conference on Artificial Intelligence and Statistics
+  publisher: PMLR  
+  author: 
+  - family: Snelson
+    given: Edward
+  - family: Ghahramani
+    given: Zoubin
+  editor: 
+  - family: Meila
+    given: Marina
+  - family: Shen
+    given: Xiaotong
+  address: San Juan, Puerto Rico
+  page: 524-531
+  id: snelson07a
+  issued:
+    date-parts: 
+      - 2007
+      - 3
+      - 11
+  abstract: "Gaussian process (GP) models are flexible probabilistic nonparametric models for regression, classification and other tasks. Unfortunately they suffer from computational intractability for large data sets. Over the past decade there have been many different approximations developed to reduce this cost. Most of these can be termed global approximations, in that they try to summarize all the training data via a small set of support points. A different approach is that of local regression, where many local experts account for their own part of space. In this paper we start by investigating the regimes in which these different approaches work well or fail. We then proceed to develop a new sparse GP approximation which is a combination of both the global and local approaches. Theoretically we show that it is derived as a natural extension of the framework developed by Qui onero Candela and Rasmussen [2005] for n sparse GP approximations. We demonstrate the benefits of the combined approximation on some 1D examples for illustration, and on some large real-world data sets."
+- title: "Predictive Discretization during Model Selection"
+  volume: 2
+  URL: http://proceedings.mlr.press/v2/steck07a.html
+  PDF: http://proceedings.pmlr.press/steck07a/steck07a.pdf
+  container-title: Proceedings of the Eleventh International Conference on Artificial Intelligence and Statistics
+  publisher: PMLR  
+  author: 
+  - family: Steck
+    given: Harald
+  - family: Jaakkola
+    given: Tommi S.
+  editor: 
+  - family: Meila
+    given: Marina
+  - family: Shen
+    given: Xiaotong
+  address: San Juan, Puerto Rico
+  page: 532-539
+  id: steck07a
+  issued:
+    date-parts: 
+      - 2007
+      - 3
+      - 11
+  abstract: "We present an approach to discretizing multivariate continuous data while learning the structure of a graphical model. We derive the joint scoring function from the principle of predictive accuracy, which inherently ensures the optimal trade-off between goodness of fit and model complexity (including the number of discretization levels). Using the so-called finest grid implied by the data, our scoring function depends only on the number of data points in the various discretization levels. Not only can it be computed efficiently, but it is also invariant under monotonic transformations of the continuous space. Our experiments show that the discretization method can substantially impact the resulting graph structure."
+- title: "Emerge and spread models and word burstiness"
+  volume: 2
+  URL: http://proceedings.mlr.press/v2/sunehag07a.html
+  PDF: http://proceedings.pmlr.press/sunehag07a/sunehag07a.pdf
+  container-title: Proceedings of the Eleventh International Conference on Artificial Intelligence and Statistics
+  publisher: PMLR  
+  author: 
+  - family: Sunehag
+    given: Peter
+  editor: 
+  - family: Meila
+    given: Marina
+  - family: Shen
+    given: Xiaotong
+  address: San Juan, Puerto Rico
+  page: 540-547
+  id: sunehag07a
+  issued:
+    date-parts: 
+      - 2007
+      - 3
+      - 11
+  abstract: "Several authors have recently studied the problem of creating exchangeable models for natural languages that exhibit word burstiness. Word burstiness means that a word that has appeared once in a text should be more likely to appear again than it was to appear in the first place. In this article the different existing methods are compared theoretically through a unifying framework. New models that do not satisfy the exchangeability assumption but whose probability revisions only depend on the word counts of what has previously appeared, are introduced within this framework. We will refer to these models as two-stage conditional presence/abundance models since they, just like some recently introduced models for the abundance of rare species in ecology, seperate the issue of presence from the issue of abundance when present. We will see that the widely used TF-IDF heuristic for information retrieval follows naturally from these models by calculating a crossentropy. We will also discuss a connection between TF-IDF and file formats that seperate presence from abundance given presence."
+- title: "Learning Multilevel Distributed Representations for High-Dimensional Sequences"
+  volume: 2
+  URL: http://proceedings.mlr.press/v2/sutskever07a.html
+  PDF: http://proceedings.pmlr.press/sutskever07a/sutskever07a.pdf
+  container-title: Proceedings of the Eleventh International Conference on Artificial Intelligence and Statistics
+  publisher: PMLR  
+  author: 
+  - family: Sutskever
+    given: Ilya
+  - family: Hinton
+    given: Geoffrey
+  editor: 
+  - family: Meila
+    given: Marina
+  - family: Shen
+    given: Xiaotong
+  address: San Juan, Puerto Rico
+  page: 548-555
+  id: sutskever07a
+  issued:
+    date-parts: 
+      - 2007
+      - 3
+      - 11
+  abstract: "We describe a new family of non-linear sequence models that are substantially more powerful than hidden Markov models or linear dynamical systems. Our models have simple approximate inference and learning procedures that work well in practice. Multilevel representations of sequential data can be learned one hidden layer at a time, and adding extra hidden layers improves the resulting generative models. The models can be trained with very high-dimensional, very non-linear data such as raw pixel sequences. Their performance is demonstrated using synthetic video sequences of two balls bouncing in a box."
+- title: "Stick-breaking Construction for the Indian Buffet Process"
+  volume: 2
+  URL: http://proceedings.mlr.press/v2/teh07a.html
+  PDF: http://proceedings.pmlr.press/teh07a/teh07a.pdf
+  container-title: Proceedings of the Eleventh International Conference on Artificial Intelligence and Statistics
+  publisher: PMLR  
+  author: 
+  - family: Teh
+    given: Yee Whye
+  - family: Grür
+    given: Dilan
+  - family: Ghahramani
+    given: Zoubin
+  editor: 
+  - family: Meila
+    given: Marina
+  - family: Shen
+    given: Xiaotong
+  address: San Juan, Puerto Rico
+  page: 556-563
+  id: teh07a
+  issued:
+    date-parts: 
+      - 2007
+      - 3
+      - 11
+  abstract: "The Indian buffet process (IBP) is a Bayesian nonparametric distribution whereby objects are modelled using an unbounded number of latent features. In this paper we derive a stick-breaking representation for the IBP. Based on this new representation, we develop slice samplers for the IBP that are efficient, easy to implement and are more generally applicable than the currently available Gibbs sampler. This representation, along with the work of Thibaux and Jordan [17], also illuminates interesting theoretical connections between the IBP, Chinese restaurant processes, Beta processes and Dirichlet processes."
+- title: "Hierarchical Beta Processes and the Indian Buffet Process"
+  volume: 2
+  URL: http://proceedings.mlr.press/v2/thibaux07a.html
+  PDF: http://proceedings.pmlr.press/thibaux07a/thibaux07a.pdf
+  container-title: Proceedings of the Eleventh International Conference on Artificial Intelligence and Statistics
+  publisher: PMLR  
+  author: 
+  - family: Thibaux
+    given: Romain
+  - family: Jordan
+    given: Michael I.
+  editor: 
+  - family: Meila
+    given: Marina
+  - family: Shen
+    given: Xiaotong
+  address: San Juan, Puerto Rico
+  page: 564-571
+  id: thibaux07a
+  issued:
+    date-parts: 
+      - 2007
+      - 3
+      - 11
+  abstract: "We show that the beta process is the de Finetti mixing distribution underlying the Indian buffet process of [2]. This result shows that the beta process plays the role for the Indian buffet process that the Dirichlet process plays for the Chinese restaurant process, a parallel that guides us in deriving analogs for the beta process of the many known extensions of the Dirichlet process. In particular we define Bayesian hierarchies of beta processes and use the connection to the beta process to develop posterior inference algorithms for the Indian buffet process. We also present an application to document classification, exploring a relationship between the hierarchical beta process and smoothed naive Bayes models."
+- title: "Nonlinear Dimensionality Reduction as Information Retrieval"
+  volume: 2
+  URL: http://proceedings.mlr.press/v2/venna07a.html
+  PDF: http://proceedings.pmlr.press/venna07a/venna07a.pdf
+  container-title: Proceedings of the Eleventh International Conference on Artificial Intelligence and Statistics
+  publisher: PMLR  
+  author: 
+  - family: Venna
+    given: Jarkko
+  - family: Kaski
+    given: Samuel
+  editor: 
+  - family: Meila
+    given: Marina
+  - family: Shen
+    given: Xiaotong
+  address: San Juan, Puerto Rico
+  page: 572-579
+  id: venna07a
+  issued:
+    date-parts: 
+      - 2007
+      - 3
+      - 11
+  abstract: "Nonlinear dimensionality reduction has so far been treated either as a data representation problem or as a search for a lowerdimensional manifold embedded in the data space. A main application for both is in information visualization, to make visible the neighborhood or proximity relationships in the data, but neither approach has been designed to optimize this task. We give such visualization a new conceptualization as an information retrieval problem; a projection is good if neighbors of data points can be retrieved well based on the visualized projected points. This makes it possible to rigorously quantify goodness in terms of precision and recall. A method is introduced to optimize retrieval quality; it turns out to be an extension of Stochastic Neighbor Embedding, one of the earlier nonlinear projection methods, for which we give a new interpretation: it optimizes recall. The new method is shown empirically to outperform existing dimensionality reduction methods."
+- title: "The Kernel Path in Kernelized LASSO"
+  volume: 2
+  URL: http://proceedings.mlr.press/v2/wang07a.html
+  PDF: http://proceedings.pmlr.press/wang07a/wang07a.pdf
+  container-title: Proceedings of the Eleventh International Conference on Artificial Intelligence and Statistics
+  publisher: PMLR  
+  author: 
+  - family: Wang
+    given: Gang
+  - family: Yeung
+    given: Dit-Yan
+  - family: Lochovsky
+    given: Frederick H.
+  editor: 
+  - family: Meila
+    given: Marina
+  - family: Shen
+    given: Xiaotong
+  address: San Juan, Puerto Rico
+  page: 580-587
+  id: wang07a
+  issued:
+    date-parts: 
+      - 2007
+      - 3
+      - 11
+  abstract: "Kernel methods implicitly map data points from the input space to some feature space where even relatively simple algorithms such as linear methods can deliver very impressive performance. Of crucial importance though is the choice of the kernel function, which determines the mapping between the input space and the feature space. The past few years have seen many efforts in learning either the kernel function or the kernel matrix. In this paper, we study the problem of learning the kernel hyperparameter in the context of the kernelized LASSO regression model. Specifically, we propose a solution path algorithm with respect to the hyperparameter of the kernel function. As the kernel hyperparameter changes its value, the solution path can be traced exactly without having to train the model multiple times. As a result, the optimal solution can be identified efficiently. Some simulation results will be presented to demonstrate the effectiveness of our proposed kernel path algorithm."
+- title: "Efficient large margin semisupervised learning"
+  volume: 2
+  URL: http://proceedings.mlr.press/v2/wang07b.html
+  PDF: http://proceedings.pmlr.press/wang07b/wang07b.pdf
+  container-title: Proceedings of the Eleventh International Conference on Artificial Intelligence and Statistics
+  publisher: PMLR  
+  author: 
+  - family: Wang
+    given: Junhui
+  editor: 
+  - family: Meila
+    given: Marina
+  - family: Shen
+    given: Xiaotong
+  address: San Juan, Puerto Rico
+  page: 588-595
+  id: wang07b
+  issued:
+    date-parts: 
+      - 2007
+      - 3
+      - 11
+  abstract: "In classification, semisupervised learning involves a large amount of unlabeled data with only a small number of labeled data. This imposes great challenge in that the class probability given input can not be well estimated through labeled data alone. To enhance predictability of classification, this article introduces a large margin semisupervised learning method constructing an efficient loss to measure the contribution of unlabeled instances to classification. The loss is iteratively refined, based on which an iterative scheme is derived for implementation. The proposed method is examined for two large margin classifiers: support vector machines and  ψ-learning. Our theoretical and numerical analyses indicate that the method achieves the desired objective of delivering higher performances over any other method initializing the scheme."
+- title: "Semi-Supervised Mean Fields"
+  volume: 2
+  URL: http://proceedings.mlr.press/v2/wang07c.html
+  PDF: http://proceedings.pmlr.press/wang07c/wang07c.pdf
+  container-title: Proceedings of the Eleventh International Conference on Artificial Intelligence and Statistics
+  publisher: PMLR  
+  author: 
+  - family: Wang
+    given: Fei
+  - family: Wang
+    given: Shijun
+  - family: Zhang
+    given: Changshui
+  - family: Winther
+    given: Ole
+  editor: 
+  - family: Meila
+    given: Marina
+  - family: Shen
+    given: Xiaotong
+  address: San Juan, Puerto Rico
+  page: 596-603
+  id: wang07c
+  issued:
+    date-parts: 
+      - 2007
+      - 3
+      - 11
+  abstract: "A novel semi-supervised learning approach based on statistical physics is proposed in this paper. We treat each data point as an Ising spin and the interaction between pairwise spins is captured by the similarity between the pairwise points. The labels of the data points are treated as the directions of the corresponding spins. In semi-supervised setting, some of the spins have fixed directions (which corresponds to the labeled data), and our task is to determine the directions of other spins. An approach based on the Mean Field theory is proposed to achieve this goal. Finally the experimental results on both toy and real world data sets are provided to show the effectiveness of our method."
+- title: "Fast Mean Shift with Accurate and Stable Convergence"
+  volume: 2
+  URL: http://proceedings.mlr.press/v2/wang07d.html
+  PDF: http://proceedings.pmlr.press/wang07d/wang07d.pdf
+  container-title: Proceedings of the Eleventh International Conference on Artificial Intelligence and Statistics
+  publisher: PMLR  
+  author: 
+  - family: Wang
+    given: Ping
+  - family: Lee
+    given: Dongryeol
+  - family: Gray
+    given: Alexander
+  - family: Rehg
+    given: James M.
+  editor: 
+  - family: Meila
+    given: Marina
+  - family: Shen
+    given: Xiaotong
+  address: San Juan, Puerto Rico
+  page: 604-611
+  id: wang07d
+  issued:
+    date-parts: 
+      - 2007
+      - 3
+      - 11
+  abstract: "Mean shift is a powerful but computationally expensive method for nonparametric clustering and optimization. It iteratively moves each data point to its local mean until convergence. We introduce a fast algorithm for computing mean shift based on the dual-tree. Unlike previous speed-up attempts, our algorithm maintains a relative error bound at each iteration, resulting in significantly more stable and accurate convergence. We demonstrate the benefit of our method in clustering experiments with real and synthetic data."
+- title: "Metric Learning for Kernel Regression"
+  volume: 2
+  URL: http://proceedings.mlr.press/v2/weinberger07a.html
+  PDF: http://proceedings.pmlr.press/weinberger07a/weinberger07a.pdf
+  container-title: Proceedings of the Eleventh International Conference on Artificial Intelligence and Statistics
+  publisher: PMLR  
+  author: 
+  - family: Weinberger
+    given: Kilian Q.
+  - family: Tesauro
+    given: Gerald
+  editor: 
+  - family: Meila
+    given: Marina
+  - family: Shen
+    given: Xiaotong
+  address: San Juan, Puerto Rico
+  page: 612-619
+  id: weinberger07a
+  issued:
+    date-parts: 
+      - 2007
+      - 3
+      - 11
+  abstract: "Kernel regression is a well-established method for nonlinear regression in which the target value for a test point is estimated using a weighted average of the surrounding training samples. The weights are typically obtained by applying a distance-based kernel function to each of the samples, which presumes the existence of a well-defined distance metric. In this paper, we construct a novel algorithm for supervised metric learning, which learns a distance function by directly minimizing the leave-one-out regression error. We show that our algorithm makes kernel regression comparable with the state of the art on several benchmark datasets, and we provide efficient implementation details enabling application to datasets with  O(10k) instances. Further, we show that our algorithm can be viewed as a supervised variation of PCA and can be used for dimensionality reduction and high dimensional data visualization."
+- title: "Performance Guarantees for Information Theoretic Active Inference"
+  volume: 2
+  URL: http://proceedings.mlr.press/v2/williams07a.html
+  PDF: http://proceedings.pmlr.press/williams07a/williams07a.pdf
+  container-title: Proceedings of the Eleventh International Conference on Artificial Intelligence and Statistics
+  publisher: PMLR  
+  author: 
+  - family: Williams
+    given: Jason L.
+  - family: III
+    given: John W. Fisher
+  - family: Willsky
+    given: Alan S.
+  editor: 
+  - family: Meila
+    given: Marina
+  - family: Shen
+    given: Xiaotong
+  address: San Juan, Puerto Rico
+  page: 620-627
+  id: williams07a
+  issued:
+    date-parts: 
+      - 2007
+      - 3
+      - 11
+  abstract: "In many estimation problems, the measurement process can be actively controlled to alter the information received. The control choices made in turn determine the performance that is possible in the underlying inference task. In this paper, we discuss performance guarantees for heuristic algorithms for adaptive measurement selection in sequential estimation problems, where the inference criterion is mutual information. We also demonstrate the performance of our tighter online computable performance guarantees through computational simulations."
+- title: "Transductive Classification via Local Learning Regularization"
+  volume: 2
+  URL: http://proceedings.mlr.press/v2/wu07a.html
+  PDF: http://proceedings.pmlr.press/wu07a/wu07a.pdf
+  container-title: Proceedings of the Eleventh International Conference on Artificial Intelligence and Statistics
+  publisher: PMLR  
+  author: 
+  - family: Wu
+    given: Mingrui
+  - family: Scholkopf
+    given: Bernhard
+  editor: 
+  - family: Meila
+    given: Marina
+  - family: Shen
+    given: Xiaotong
+  address: San Juan, Puerto Rico
+  page: 628-635
+  id: wu07a
+  issued:
+    date-parts: 
+      - 2007
+      - 3
+      - 11
+  abstract: "The idea of local learning, classifying a particular point based on its neighbors, has been successfully applied to supervised learning problems. In this paper, we adapt it for Transductive Classification (TC) problems. Specifically, we formulate a Local Learning Regularizer (LL-Reg) which leads to a solution with the property that the label of each data point can be well predicted based on its neighbors and their labels. For model selection, an efficient way to compute the leave-one-out classification error is provided for the proposed and related algorithms. Experimental results using several benchmark datasets illustrate the effectiveness of the proposed approach."
+- title: "How Powerful Can Any Regression Learning Procedure Be?"
+  volume: 2
+  URL: http://proceedings.mlr.press/v2/yang07a.html
+  PDF: http://proceedings.pmlr.press/yang07a/yang07a.pdf
+  container-title: Proceedings of the Eleventh International Conference on Artificial Intelligence and Statistics
+  publisher: PMLR  
+  author: 
+  - family: Yang
+    given: Yuhong
+  editor: 
+  - family: Meila
+    given: Marina
+  - family: Shen
+    given: Xiaotong
+  address: San Juan, Puerto Rico
+  page: 636-643
+  id: yang07a
+  issued:
+    date-parts: 
+      - 2007
+      - 3
+      - 11
+  abstract: "Efforts have been directed at obtaining flexible learning procedures that optimally adapt to various possible characteristics of the data generating mechanism. A question that addresses the issue of how far one can go in this direction is: Given a regression procedure, however sophisticated it is, how many regression functions are estimated accurately? In this work, for a given sequence of prescribed estimation accuracy (in sample size), we give an upper bound (in terms of metric entropy) on the number of regression functions for which the accuracy is achieved. Interesting consequences on adaptive and sparse estimations are also given."
+- title: "SVM versus Least Squares SVM"
+  volume: 2
+  URL: http://proceedings.mlr.press/v2/ye07a.html
+  PDF: http://proceedings.pmlr.press/ye07a/ye07a.pdf
+  container-title: Proceedings of the Eleventh International Conference on Artificial Intelligence and Statistics
+  publisher: PMLR  
+  author: 
+  - family: Ye
+    given: Jieping
+  - family: Xiong
+    given: Tao
+  editor: 
+  - family: Meila
+    given: Marina
+  - family: Shen
+    given: Xiaotong
+  address: San Juan, Puerto Rico
+  page: 644-651
+  id: ye07a
+  issued:
+    date-parts: 
+      - 2007
+      - 3
+      - 11
+  abstract: "We study the relationship between Support Vector Machines (SVM) and Least Squares SVM (LS-SVM). Our main result shows that under mild conditions, LS-SVM for binaryclass classifications is equivalent to the hard margin SVM based on the well-known Mahalanobis distance measure. We further study the asymptotics of the hard margin SVM when the data dimensionality tends to infinity with a fixed sample size. Using recently developed theory on the asymptotics of the distribution of the eigenvalues of the covariance matrix, we show that under mild conditions, the equivalence result holds for the traditional Euclidean distance measure. These equivalence results are further extended to the multi-class case. Experimental results confirm the presented theoretical analysis."
+- title: "Importance Sampling for General Hybrid Bayesian Networks"
+  volume: 2
+  URL: http://proceedings.mlr.press/v2/yuan07a.html
+  PDF: http://proceedings.pmlr.press/yuan07a/yuan07a.pdf
+  container-title: Proceedings of the Eleventh International Conference on Artificial Intelligence and Statistics
+  publisher: PMLR  
+  author: 
+  - family: Yuan
+    given: Changhe
+  - family: Druzdzel
+    given: Marek J.
+  editor: 
+  - family: Meila
+    given: Marina
+  - family: Shen
+    given: Xiaotong
+  address: San Juan, Puerto Rico
+  page: 652-659
+  id: yuan07a
+  issued:
+    date-parts: 
+      - 2007
+      - 3
+      - 11
+  abstract: "Some real problems are more naturally modeled by hybrid Bayesian networks that consist of mixtures of continuous and discrete variables with their interactions described by equations and continuous probability distributions. However, inference in such general hybrid models is hard. Therefore, existing approaches either only deal with special instances, such as Conditional Linear Gaussians (CLGs), or approximate a general model with a restricted version and then perform inference on the simpler model. However, results thus obtained highly depend on the quality of the approximations. This paper describes an importance sampling-based algorithm that directly deals with hybrid Bayesian networks constructed in the most general settings and guarantees to converge to the correct answers given enough time."
+- title: "Nonnegative Garrote Component Selection in Functional ANOVA models"
+  volume: 2
+  URL: http://proceedings.mlr.press/v2/yuan07b.html
+  PDF: http://proceedings.pmlr.press/yuan07b/yuan07b.pdf
+  container-title: Proceedings of the Eleventh International Conference on Artificial Intelligence and Statistics
+  publisher: PMLR  
+  author: 
+  - family: Yuan
+    given: Ming
+  editor: 
+  - family: Meila
+    given: Marina
+  - family: Shen
+    given: Xiaotong
+  address: San Juan, Puerto Rico
+  page: 660-666
+  id: yuan07b
+  issued:
+    date-parts: 
+      - 2007
+      - 3
+      - 11
+  abstract: "We consider the problem of component selection in a functional ANOVA model. A nonparametric extension of the nonnegative garrote (Breiman, 1996) is proposed. We show that the whole solution path of the proposed method can be efficiently computed, which, in turn , facilitates the selection of the tuning parameter. We also show that the final estimate enjoys nice theoretical properties given that the tuning parameter is appropriately chosen. Simulation and a real data example demonstrate promising performance of the new approach."
+- title: "Generalized Do-Calculus with Testable Causal Assumptions"
+  volume: 2
+  URL: http://proceedings.mlr.press/v2/zhang07a.html
+  PDF: http://proceedings.pmlr.press/zhang07a/zhang07a.pdf
+  container-title: Proceedings of the Eleventh International Conference on Artificial Intelligence and Statistics
+  publisher: PMLR  
+  author: 
+  - family: Zhang
+    given: Jiji
+  editor: 
+  - family: Meila
+    given: Marina
+  - family: Shen
+    given: Xiaotong
+  address: San Juan, Puerto Rico
+  page: 667-674
+  id: zhang07a
+  issued:
+    date-parts: 
+      - 2007
+      - 3
+      - 11
+  abstract: "A primary object of causal reasoning concerns what would happen to a system under certain interventions. Specifically, we are often interested in estimating the probability distribution of some random variables that would result from forcing some other variables to take certain values. The renowned do-calculus (Pearl 1995) gives a set of rules that govern the identification of such post-intervention probabilities in terms of (estimable) pre-intervention probabilities, assuming available a directed acyclic graph (DAG) that represents the underlying causal structure. However, a DAG causal structure is seldom fully testable given preintervention, observational data, since many competing DAG structures are equally compatible with the data. In this paper we extend the do-calculus to cover cases where the available causal information is summarized in a so-called partial ancestral graph (PAG) that represents an equivalence class of DAG structures. The causal assumptions encoded by a PAG are significantly weaker than those encoded by a full-blown DAG causal structure, and are in principle fully testable by observed conditional independence relations."
+- title: "An Improved 1-norm SVM for Simultaneous Classification and Variable Selection"
+  volume: 2
+  URL: http://proceedings.mlr.press/v2/zou07a.html
+  PDF: http://proceedings.pmlr.press/zou07a/zou07a.pdf
+  container-title: Proceedings of the Eleventh International Conference on Artificial Intelligence and Statistics
+  publisher: PMLR  
+  author: 
+  - family: Zou
+    given: Hui
+  editor: 
+  - family: Meila
+    given: Marina
+  - family: Shen
+    given: Xiaotong
+  address: San Juan, Puerto Rico
+  page: 675-681
+  id: zou07a
+  issued:
+    date-parts: 
+      - 2007
+      - 3
+      - 11
+  abstract: "We propose a novel extension of the 1-norm support vector machine (SVM) for simultaneous feature selection and classification. The new algorithm penalizes the empirical hinge loss by the adaptively weighted 1-norm penalty in which the weights are computed by the 2-norm SVM. Hence the new algorithm is called the hybrid SVM. Simulation and real data examples show that the hybrid SVM not only often improves upon the 1-norm SVM in terms of classification accuracy but also enjoys better feature selection performance."

@@ -13,6 +13,7 @@ abstract: Kernel regression is a well-established method for nonlinear regressio
   and can be used for dimensionality reduction and high dimensional data visualization.
 pdf: http://proceedings.mlr.press/v2/weinberger07a/weinberger07a.pdf
 layout: inproceedings
+series: Proceedings of Machine Learning Research
 id: weinberger07a
 month: 0
 firstpage: 612

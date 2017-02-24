@@ -1,0 +1,15 @@
+--17:27:04--  http://www.stat.umn.edu/~aistat/proceedings/data/papers/073.pdf
+Resolving www.stat.umn.edu... 134.84.86.2
+Connecting to www.stat.umn.edu|134.84.86.2|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 210982 (206K) [application/pdf]
+Saving to: `wang07a/wang07a.pdf'
+
+     0K .......... .......... .......... .......... .......... 24% 93.6K 2s
+    50K .......... .......... .......... .......... .......... 48%  148K 1s
+   100K .......... .......... .......... .......... .......... 72%  152K 0s
+   150K .......... .......... .......... .......... .......... 97%  254K 0s
+   200K ......                                                100% 43.8K=1.5s
+
+17:27:06 (134 KB/s) - `wang07a/wang07a.pdf' saved [210982/210982]
+

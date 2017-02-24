@@ -15,6 +15,7 @@ abstract: A novel technique is proposed for improving the standard Vapnik-Chervo
   are shown on several standardized datasets.
 pdf: http://proceedings.mlr.press/v2/shivaswamy07a/shivaswamy07a.pdf
 layout: inproceedings
+series: Proceedings of Machine Learning Research
 id: shivaswamy07a
 month: 0
 firstpage: 484

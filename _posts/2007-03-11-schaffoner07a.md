@@ -12,6 +12,7 @@ abstract: A novel training algorithm for sparse kernel density estimates by regr
   models [1].
 pdf: http://proceedings.mlr.press/v2/schaffoner07a/schaffoner07a.pdf
 layout: inproceedings
+series: Proceedings of Machine Learning Research
 id: schaffoner07a
 month: 0
 firstpage: 428

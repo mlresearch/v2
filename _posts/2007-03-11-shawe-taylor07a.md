@@ -6,6 +6,7 @@ abstract: The paper introduces a new framework for learning probability density 
   support the theoretical analysis.
 pdf: http://proceedings.mlr.press/v2/shawe-taylor07a/shawe-taylor07a.pdf
 layout: inproceedings
+series: Proceedings of Machine Learning Research
 id: shawe-taylor07a
 month: 0
 firstpage: 468

@@ -1,0 +1,14 @@
+--17:25:27--  http://www.stat.umn.edu/~aistat/proceedings/data/papers/042.pdf
+Resolving www.stat.umn.edu... 134.84.86.2
+Connecting to www.stat.umn.edu|134.84.86.2|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 201387 (197K) [application/pdf]
+Saving to: `mooij07a/mooij07a.pdf'
+
+     0K .......... .......... .......... .......... .......... 25% 93.3K 2s
+    50K .......... .......... .......... .......... .......... 50%  144K 1s
+   100K .......... .......... .......... .......... .......... 76%  145K 0s
+   150K .......... .......... .......... .......... ......    100%  239K=1.4s
+
+17:25:29 (138 KB/s) - `mooij07a/mooij07a.pdf' saved [201387/201387]
+

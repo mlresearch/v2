@@ -11,6 +11,7 @@ abstract: We show how to pretrain and fine-tune a multilayer neural network to l
   transformations of the digits that do not affect their identity.
 pdf: http://proceedings.mlr.press/v2/salakhutdinov07a/salakhutdinov07a.pdf
 layout: inproceedings
+series: Proceedings of Machine Learning Research
 id: salakhutdinov07a
 month: 0
 firstpage: 412

@@ -1,0 +1,16 @@
+--17:25:44--  http://www.stat.umn.edu/~aistat/proceedings/data/papers/050.pdf
+Resolving www.stat.umn.edu... 134.84.86.2
+Connecting to www.stat.umn.edu|134.84.86.2|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 262943 (257K) [application/pdf]
+Saving to: `rosenberg07a/rosenberg07a.pdf'
+
+     0K .......... .......... .......... .......... .......... 19% 93.4K 2s
+    50K .......... .......... .......... .......... .......... 38%  144K 1s
+   100K .......... .......... .......... .......... .......... 58%  144K 1s
+   150K .......... .......... .......... .......... .......... 77%  252K 0s
+   200K .......... .......... .......... .......... .......... 97%  148K 0s
+   250K ......                                                100% 1.03M=1.8s
+
+17:25:47 (145 KB/s) - `rosenberg07a/rosenberg07a.pdf' saved [262943/262943]
+
