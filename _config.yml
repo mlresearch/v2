@@ -28,15 +28,16 @@ editor:
 title: Proceedings of Machine Learning Research
 description: |
   Proceedings of the Eleventh International Conference on Artificial Intelligence and Statistics
-  21-24 March 2007
-  Held in San Juan, Puerto Rico
+    Held in San Juan, Puerto Rico on 21-24 March 2007
 
-  Published by Proceedings of Machine Learning Research
+  Published as Volume 2 by the Proceedings of Machine Learning Research on 11 March 2007.
 
+  Volume Edited by:
+    Marina Meila
+    Xiaotong Shen
 
-  Edited by:
-  Marina Meila
-  Xiaotong Shen
+  Series Editors:
+    Neil D. Lawrence
 url: http://proceedings.mlr.press
 baseurl: "/v2"
 twitter_username: mlresearch
