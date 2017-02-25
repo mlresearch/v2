@@ -9,6 +9,7 @@ layout: inproceedings
 series: Proceedings of Machine Learning Research
 id: shawe-taylor07a
 month: 0
+tex_title: A Framework for Probability Density Estimation
 firstpage: 468
 lastpage: 475
 page: 468-475

@@ -16,6 +16,7 @@ layout: inproceedings
 series: Proceedings of Machine Learning Research
 id: weinberger07a
 month: 0
+tex_title: Metric Learning for Kernel Regression
 firstpage: 612
 lastpage: 619
 page: 612-619

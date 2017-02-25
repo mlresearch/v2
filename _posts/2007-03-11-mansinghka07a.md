@@ -13,6 +13,7 @@ layout: inproceedings
 series: Proceedings of Machine Learning Research
 id: mansinghka07a
 month: 0
+tex_title: 'AClass: A simple, online, parallelizable algorithm for probabilistic classification'
 firstpage: 315
 lastpage: 322
 page: 315-322

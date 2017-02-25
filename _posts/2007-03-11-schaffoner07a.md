@@ -15,6 +15,8 @@ layout: inproceedings
 series: Proceedings of Machine Learning Research
 id: schaffoner07a
 month: 0
+tex_title: Memory-Effcient Orthogonal Least Squares Kernel Density Estimation using
+  Enhanced Empirical Cumulative Distribution Functions
 firstpage: 428
 lastpage: 435
 page: 428-435

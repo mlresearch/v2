@@ -13,6 +13,7 @@ layout: inproceedings
 series: Proceedings of Machine Learning Research
 id: niculescu-mizil07a
 month: 0
+tex_title: Inductive Transfer for Bayesian Network Structure Learning
 firstpage: 339
 lastpage: 346
 page: 339-346

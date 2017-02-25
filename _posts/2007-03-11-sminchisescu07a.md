@@ -15,6 +15,7 @@ layout: inproceedings
 series: Proceedings of Machine Learning Research
 id: sminchisescu07a
 month: 0
+tex_title: Generalized Darting Monte Carlo
 firstpage: 516
 lastpage: 523
 page: 516-523

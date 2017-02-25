@@ -13,6 +13,7 @@ layout: inproceedings
 series: Proceedings of Machine Learning Research
 id: carreira-perpinan07a
 month: 0
+tex_title: The Laplacian Eigenmaps Latent Variable Model
 firstpage: 59
 lastpage: 66
 page: 59-66

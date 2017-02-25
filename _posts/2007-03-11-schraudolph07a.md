@@ -13,6 +13,7 @@ layout: inproceedings
 series: Proceedings of Machine Learning Research
 id: schraudolph07a
 month: 0
+tex_title: A Stochastic Quasi-Newton Method for Online Convex Optimization
 firstpage: 436
 lastpage: 443
 page: 436-443

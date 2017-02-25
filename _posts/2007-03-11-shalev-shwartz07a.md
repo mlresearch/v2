@@ -20,6 +20,7 @@ layout: inproceedings
 series: Proceedings of Machine Learning Research
 id: shalev-shwartz07a
 month: 0
+tex_title: A Unified Algorithmic Approach for Efficient Online Label Ranking
 firstpage: 452
 lastpage: 459
 page: 452-459

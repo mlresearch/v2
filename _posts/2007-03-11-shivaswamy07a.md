@@ -18,6 +18,7 @@ layout: inproceedings
 series: Proceedings of Machine Learning Research
 id: shivaswamy07a
 month: 0
+tex_title: Ellipsoidal Machines
 firstpage: 484
 lastpage: 491
 page: 484-491
