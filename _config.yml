@@ -25,11 +25,18 @@ editor:
   family: Meila
 - given: Xiaotong
   family: Shen
-title: Proceedings of the Eleventh International Conference on Artificial Intelligence
-  and Statistics
-email: ''
-description: Proceedings of the Eleventh International Conference on Artificial Intelligence
-  and Statistics, San Juan, Puerto Rico
+title: Proceedings of Machine Learning Research
+description: |
+  Proceedings of the Eleventh International Conference on Artificial Intelligence and Statistics
+  21-24 March 2007
+  Held in San Juan, Puerto Rico
+
+  Published by Proceedings of Machine Learning Research
+
+
+  Edited by:
+  Marina Meila
+  Xiaotong Shen
 url: http://proceedings.mlr.press
 baseurl: "/v2"
 twitter_username: mlresearch
@@ -39,6 +46,7 @@ permalink: "/:title.html"
 github:
   edit: true
   repository: v2
+email: ''
 conference:
   name: Artificial Intelligence and Statistics
   url: http://users.stat.umn.edu/~aistat/
