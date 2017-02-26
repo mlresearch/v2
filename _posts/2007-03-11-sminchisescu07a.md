@@ -19,7 +19,8 @@ tex_title: Generalized Darting Monte Carlo
 firstpage: 516
 lastpage: 523
 page: 516-523
-sections: 
+order: 516
+cycles: false
 author:
 - given: Cristian
   family: Sminchisescu

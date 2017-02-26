@@ -17,7 +17,8 @@ tex_title: Inductive Transfer for Bayesian Network Structure Learning
 firstpage: 339
 lastpage: 346
 page: 339-346
-sections: 
+order: 339
+cycles: false
 author:
 - given: Alexandru
   family: Niculescu-Mizil

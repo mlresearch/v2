@@ -20,7 +20,8 @@ tex_title: Metric Learning for Kernel Regression
 firstpage: 612
 lastpage: 619
 page: 612-619
-sections: 
+order: 612
+cycles: false
 author:
 - given: Kilian Q.
   family: Weinberger

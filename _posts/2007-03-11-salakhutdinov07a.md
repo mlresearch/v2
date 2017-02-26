@@ -18,7 +18,8 @@ tex_title: Learning a Nonlinear Embedding by Preserving Class Neighbourhood Stru
 firstpage: 412
 lastpage: 419
 page: 412-419
-sections: 
+order: 412
+cycles: false
 author:
 - given: Ruslan
   family: Salakhutdinov

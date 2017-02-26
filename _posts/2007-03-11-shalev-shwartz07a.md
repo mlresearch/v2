@@ -24,7 +24,8 @@ tex_title: A Unified Algorithmic Approach for Efficient Online Label Ranking
 firstpage: 452
 lastpage: 459
 page: 452-459
-sections: 
+order: 452
+cycles: false
 author:
 - given: Shai
   family: Shalev-Shwartz

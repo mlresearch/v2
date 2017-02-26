@@ -17,7 +17,8 @@ tex_title: A Stochastic Quasi-Newton Method for Online Convex Optimization
 firstpage: 436
 lastpage: 443
 page: 436-443
-sections: 
+order: 436
+cycles: false
 author:
 - given: Nicol N.
   family: Schraudolph

@@ -22,7 +22,8 @@ tex_title: Ellipsoidal Machines
 firstpage: 484
 lastpage: 491
 page: 484-491
-sections: 
+order: 484
+cycles: false
 author:
 - given: Pannagadatta K.
   family: Shivaswamy

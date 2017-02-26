@@ -17,7 +17,8 @@ tex_title: 'AClass: A simple, online, parallelizable algorithm for probabilistic
 firstpage: 315
 lastpage: 322
 page: 315-322
-sections: 
+order: 315
+cycles: false
 author:
 - given: Vikash K.
   family: Mansinghka

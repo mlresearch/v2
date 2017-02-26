@@ -13,7 +13,8 @@ tex_title: A Framework for Probability Density Estimation
 firstpage: 468
 lastpage: 475
 page: 468-475
-sections: 
+order: 468
+cycles: false
 author:
 - given: John
   family: Shawe-Taylor

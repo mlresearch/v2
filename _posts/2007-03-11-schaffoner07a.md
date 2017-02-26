@@ -20,7 +20,8 @@ tex_title: Memory-Effcient Orthogonal Least Squares Kernel Density Estimation us
 firstpage: 428
 lastpage: 435
 page: 428-435
-sections: 
+order: 428
+cycles: false
 author:
 - given: Martin
   family: Schaffoner

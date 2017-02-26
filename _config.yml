@@ -9,7 +9,7 @@ start: 2007-03-21
 end: 2007-03-24
 published: 2007-03-11
 shortname: AISTATS
-comments: false
+comments: 'no'
 bibsource: http://jmlr.csail.mit.edu/proceedings/
 sections:
 - name: preface
@@ -22,6 +22,7 @@ month: 0
 abstract: ''
 tex_title: 
 title: Proceedings of Machine Learning Research
+cycles: false
 editor:
 - given: Marina
   family: Meila
@@ -49,9 +50,12 @@ permalink: "/:title.html"
 github:
   edit: true
   repository: v2
-bibtex_copy: true
-endnote_copy: true
-apa_copy: true
+display:
+  copy_button:
+    bibtex: true
+    endnote: true
+    apa: true
+  comments: false
 email: ''
 conference:
   name: Artificial Intelligence and Statistics

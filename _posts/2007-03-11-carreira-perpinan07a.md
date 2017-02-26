@@ -17,7 +17,8 @@ tex_title: The Laplacian Eigenmaps Latent Variable Model
 firstpage: 59
 lastpage: 66
 page: 59-66
-sections: 
+order: 59
+cycles: false
 author:
 - given: Miguel A.
   family: Carreira-PerpiÃ±an
