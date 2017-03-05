@@ -27,4 +27,7 @@ layout: null
   type: {{ post.type }}{% endif %}
   issued:
     date-parts: {% for date-part in post.issued.date-parts %}
-      - {{ date-part }}{% endfor %}{% endfor %}
+      - {{ date-part }}{% endfor %}{% if post.firstpage %}
+  firstpage: {{ post.firstpage }}{% endif %}{% if post.lastpage %}
+  lastpage: {{ post.lastpage }}{% endif %}{% if post.published %}
+  published: {{ post.published }}{% endif %}{% endfor %}
