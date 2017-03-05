@@ -8,7 +8,7 @@ layout: null
   URL: {{site.url}}{{site.baseurl}}{{ post.url }}{% if post.doi %}
   DOI: {{ post.doi }}{% endif %}{% if post.pdf %}
   PDF: {{ post.pdf }}{% endif %}
-  PDF: https://github.com/{{ site.github_username }}/{% if site.github.repository %}{{ site.github.repository }}{% else %}{{ site.baseurl }}{% endif %}/edit/{% if site.github.repository contains 'github.io' %}master{% else %}gh-pages{% endif %}/{{ post.path }}{% if post.number %}
+  edit: https://github.com/{{ site.github_username }}/{% if site.github.repository %}{{ site.github.repository }}{% else %}{{ site.baseurl }}{% endif %}/edit/{% if site.github.repository contains 'github.io' %}master{% else %}gh-pages{% endif %}/{{ post.path }}{% if post.number %}
   issue: {{ post.number }}{% endif %}{% if post.series %}
   series: '{{ post.series }}'{% endif %}
   container-title: '{{ post.container-title | replace: "'", "''" }}'
