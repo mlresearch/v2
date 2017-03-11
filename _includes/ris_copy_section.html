@@ -4,7 +4,7 @@
   <tr>
     <td><div class="codebox" >
 	<pre><code id="ris">{% include ris_entry %}</code></pre></div></td>
-    <td><button id="button-ris1" onclick="CopyToClipboard('ris')">Copy RIS</button></td><td><button id="button-ris2" onclick="DownloadToFile('{{ page.id }}.ris', 'ris')">Download RIS</button></td>
+    <td><button id="button-ris1" onclick="CopyToClipboard('ris')">Copy RIS</button></td><td><button id="button-ris2" onclick="DownloadToFile('{{ page.id | remove_first: '/' }}.ris', 'ris')">Download RIS</button></td>
   </tr>
 </table>
 {% endif %}    
