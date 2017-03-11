@@ -19,15 +19,13 @@ sections:
 layout: proceedings
 id: MeilaMSX2007
 month: 0
-abstract: ''
-tex_title: 
-title: Proceedings of Machine Learning Research
 cycles: false
 editor:
 - given: Marina
   family: Meila
 - given: Xiaotong
   family: Shen
+title: Proceedings of Machine Learning Research
 description: |
   Proceedings of the Eleventh International Conference on Artificial Intelligence and Statistics
     Held in San Juan, Puerto Rico on 21-24 March 2007
