@@ -41,7 +41,7 @@ description: |
 date_str: 21--24 Mar
 url: http://proceedings.mlr.press
 baseurl: "/v2"
-twitter_username: mlresearch
+twitter_username: MLResearchPress
 github_username: mlresearch
 markdown: kramdown
 permalink: "/:title.html"
