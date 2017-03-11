@@ -65,7 +65,7 @@ conference:
   - 2007-03-22
   - 2007-03-23
   - 2007-03-24
-  number: '11'
+  number: 11
 analytics:
   google:
     tracking_id: UA-92432422-1
