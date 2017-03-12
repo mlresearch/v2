@@ -18,8 +18,7 @@ layout: default
     {% endfor %}
 </strong></p>
 <p>[<a href="./bibliography.bib">bib</a>][<a href="./citeproc.yaml">citeproc</a>]</p>
-<div id="sectionnav">
-  {% if site.sections %}
+<div id="sectionnav">{% if site.sections %}
   <p>Contents:</p>
   <ul>
     {% for section in site.sections %}
@@ -38,8 +37,7 @@ layout: default
 {% if site.sections %}{% for section in site.sections %}
 <h3 id="{{ section.name }}">{{ section.title }}</h3>
 {% for post in sorted %}{% if section.name == post.section %}
-{% include listpaper.html %}
-{% endif %}
+{% include listpaper.html %}{% endif %}
 {% endfor %}
 {% endfor %}
 {% endif %}
