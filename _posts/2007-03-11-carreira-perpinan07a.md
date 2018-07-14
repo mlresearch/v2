@@ -21,7 +21,7 @@ order: 59
 cycles: false
 author:
 - given: Miguel A.
-  family: Carreira-PerpiÃ±an
+  family: Carreira-Perpiñan
 - given: Zhengdong
   family: Lu
 date: 2007-03-11
