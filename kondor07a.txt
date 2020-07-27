@@ -1,7 +1,0 @@
-<h2>Multi-object tracking with representations of the symmetric group</h2>
-<p><i><b>Risi Kondor, Andrew Howard, Tony Jebara</b></i>;
-JMLR W&P 2:211-218, 2007.
-<h3>Abstract</h3>
-
-We present an efficient algorithm for approximately maintaining and updating a distribution over permutations matching tracks to real world objects. The algorithm hinges on two insights from the theory of harmonic analysis on noncommutative groups. The first is that most of the information in the distribution over permutations is captured by certain "low frequency" Fourier components. The second is that Bayesian updates of these components can be efficiently realized by extensions of Clausen's FFT for the symmetric group.
-

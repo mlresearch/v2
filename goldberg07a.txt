@@ -1,7 +1,0 @@
-<h2>Dissimilarity in Graph-Based Semi-Supervised Classification</h2>
-<p><i><b>Andrew B. Goldberg, Xiaojin Zhu, Stephen Wright</b></i>;
-JMLR W&P 2:155-162, 2007.
-<h3>Abstract</h3>
-
-Label dissimilarity specifies that a pair of examples probably have different class labels. We present a semi-supervised classification algorithm that learns from dissimilarity and similarity information on labeled and unlabeled data. Our approach uses a novel graphbased encoding of dissimilarity that results in a convex problem, and can handle both binary and multiclass classification. Experiments on several tasks are promising.
-
