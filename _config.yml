@@ -10,6 +10,9 @@ end: 2007-03-24
 published: 2007-03-11
 shortname: AISTATS
 comments: 'no'
+plugins:
+  - jekyll-remote-theme
+remote_theme: lawrennd/proceedings
 bibsource: http://jmlr.csail.mit.edu/proceedings/
 sections:
 - name: preface
@@ -45,7 +48,7 @@ twitter_username: MLResearchPress
 github_username: mlresearch
 markdown: kramdown
 permalink: "/:title.html"
-github:
+ghub:
   edit: true
   repository: v2
 display:
