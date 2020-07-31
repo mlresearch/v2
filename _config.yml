@@ -2,6 +2,7 @@
 booktitle: Proceedings of the Eleventh International Conference on Artificial Intelligence
   and Statistics
 series: Proceedings of Machine Learning Research
+issn: 1938-7228
 logo: SAIS_logo.jpg
 volume: 2
 year: '2007'
@@ -9,7 +10,7 @@ start: 2007-03-21
 end: 2007-03-24
 published: 2007-03-11
 shortname: AISTATS
-comments: 'no'
+comments: false
 plugins:
   - jekyll-remote-theme
 remote_theme: lawrennd/proceedings
