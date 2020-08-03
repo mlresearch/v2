@@ -50,6 +50,7 @@ baseurl: "/v2"
 twitter_username: MLResearchPress
 github_username: mlresearch
 markdown: kramdown
+style: pmlr
 permalink: "/:title.html"
 ghub:
   edit: true
