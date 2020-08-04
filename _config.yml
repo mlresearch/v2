@@ -64,10 +64,9 @@ display:
     apa: true
     ris: true
   comments: false
-email: ''
 conference:
   name: Artificial Intelligence and Statistics
-  url: http://users.stat.umn.edu/~aistat/
+  url: http://aistats.org/aistats2007/
   location: San Juan, Puerto Rico
   dates:
   - 2007-03-21
