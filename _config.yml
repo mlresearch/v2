@@ -1,6 +1,7 @@
 ---
 booktitle: Proceedings of the Eleventh International Conference on Artificial Intelligence
   and Statistics
+orig_bibfile: "/Users/neil/mlresearch/bibtex.bib"
 publisher: PMLR
 series: Proceedings of Machine Learning Research
 issn: 1938-7228
@@ -54,6 +55,10 @@ baseurl: "/v2"
 twitter_username: MLResearchPress
 github_username: mlresearch
 markdown: kramdown
+exclude:
+- README.md
+- Gemfile
+- ".gitignore"
 permalink: "/:title.html"
 ghub:
   edit: true
@@ -78,6 +83,5 @@ conference:
 analytics:
   google:
     tracking_id: UA-92432422-1
-orig_bibfile: "/Users/neil/mlresearch/bibtex.bib"
 # Site settings
 # Original source:  /Users/neil/mlresearch/bibtex.bib
