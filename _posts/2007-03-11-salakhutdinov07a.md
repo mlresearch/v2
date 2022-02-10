@@ -1,7 +1,7 @@
 ---
 title: Learning a Nonlinear Embedding by Preserving Class Neighbourhood Structure
 abstract: We show how to pretrain and fine-tune a multilayer neural network to learn
-  a nonlinear transformation from the input space to a lowdimensional feature space
+  a nonlinear transformation from the input space to a low-dimensional feature space
   in which K-nearest neighbour classification performs well. We also show how the
   non-linear transformation can be improved using unlabeled data. Our method achieves
   a much lower error rate than Support Vector Machines or standard backpropagation
