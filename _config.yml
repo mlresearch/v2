@@ -17,7 +17,7 @@ plugins:
 - jekyll-feed
 - jekyll-seo-tag
 - jekyll-remote-theme
-remote_theme: lawrennd/proceedings
+remote_theme: mlresearch/jekyll-theme
 style: pmlr
 bibsource: http://jmlr.csail.mit.edu/proceedings/
 sections:
