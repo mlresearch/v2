@@ -7,7 +7,7 @@ abstract: A novel training algorithm for sparse kernel density estimates by regr
   selection procedure using updates of the orthogonal decomposition in an order-recursive
   manner. We also present a method for improving the accuracy of the estimated models
   which uses output-sensitive computation of the ECDF. Experiments show the superior
-  performance of our proposed method compared to stateof-the-art density estimation
+  performance of our proposed method compared to state-of-the-art density estimation
   methods such as Parzen windows, Gaussian Mixture Models, and ε-Support Vector Density
   models [1].
 pdf: http://proceedings.mlr.press/v2/schaffoner07a/schaffoner07a.pdf

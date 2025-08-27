@@ -8,7 +8,7 @@ abstract: Kernel regression is a well-established method for nonlinear regressio
   for supervised metric learning, which learns a distance function by directly minimizing
   the leave-one-out regression error. We show that our algorithm makes kernel regression
   comparable with the state of the art on several benchmark datasets, and we provide
-  efficient implementation details enabling application to datasets with  O(10k) instances.
+  efficient implementation details enabling application to datasets with $\sim O$(10k) instances.
   Further, we show that our algorithm can be viewed as a supervised variation of PCA
   and can be used for dimensionality reduction and high dimensional data visualization.
 pdf: http://proceedings.mlr.press/v2/weinberger07a/weinberger07a.pdf

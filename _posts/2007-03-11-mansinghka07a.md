@@ -1,7 +1,7 @@
 ---
 title: 'AClass: A simple, online, parallelizable algorithm for probabilistic classification'
 abstract: We present AClass, a simple, online, parallelizable algorithm for supervised
-  multiclass classification. AClass models each classconditional density as a Chinese
+  multiclass classification. AClass models each class-conditional density as a Chinese
   restaurant process mixture, and performs approximate inference in this model using
   a sequential Monte Carlo scheme. AClass combines several strengths of previous approaches
   to classification that are not typically found in a single algorithm; it supports
